@@ -29,7 +29,7 @@
         "icono": "https://i.postimg.cc/QdjR9J3J/Tigo-Sports-2025.png"
       },
       {
-        "name": "LANC EN VIVO",
+        "name": "EVENTO PARAGUAY 4",
         "url": "termRB8D6FHnFpXFXjhLVDh89J1xs2fuMwkEJ0mVvpimQGMohjXC3U+r7WKkMYQw",
         "type": "CLEARKEY",
         "icono": "https://i.postimg.cc/QdjR9J3J/Tigo-Sports-2025.png"
@@ -3480,78 +3480,32 @@
     "samples": [
       {
         "name": "DRAGON BALL SUPER",
-        "url": "l2kjHdgAoCOrDThWoynx5AQHGBPA1u3KFwC616EsC/mQLqjqJhBT1x0r8Da4nn9NLm7fE7/SjlFFbMcgpt8nagHh26lPBExJxMM+FVxsaXY013PE329SfeliIb/kHJsOYzR3Q7WVlp68xsU42WfMGpcwVtPoApEhin529bHnlwU=",
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/H543cMdK8o18b/qRA8y/Zw==",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "type": "HLS"
       },
       {
         "name": "CORAJE EL PERRO COBARDE",
-        "url": "l2kjHdgAoCOrDThWoynx5AQHGBPA1u3KFwC616EsC/n5uM4wYCdu/uqSEk1rFysBLm7fE7/SjlFFbMcgpt8nalCvyaLr4nCJG2wv8pyPQbI013PE329SfeliIb/kHJsOZkYfE8E9zrhD7Lp/HpnwpIZaT9ZK1wm7JSEv2/wNH4g=",
-        "icono": "https://i.postimg.cc/sxPNqtYg/download-2026-02-18T101723-963.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/opaGP5gHUOtF1MTe4u0FiA==",
+        "icono": "https://i.postimg.cc/sxPNqtYg/download-2026-02-18T101723-963.jpg"
       },
       {
         "name": "SCOOBY DOO",
-        "url": "l2kjHdgAoCOrDThWoynx5AQHGBPA1u3KFwC616EsC/m+TswRZZACfFVh7Vj6APTdLm7fE7/SjlFFbMcgpt8navUzw3DtQb67u3oO0CUVUms013PE329SfeliIb/kHJsOzN6GmVC8hXAW3+9s1h+QdoEC+x5Ju76jnKNnPo2xPic=",
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/utOEhrFnksFsm4bnHUjcTQ==",
         "icono": "https://i.postimg.cc/VkhDGYxN/download-2026-02-18T101751-708.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "type": "HLS"
       },
       {
         "name": "LOS PICA PIEDRAS",
-        "url": "Ria3+UX8M/b9J2clY+9ZU/UQaLljGf7oRwk48RAteLDu5lC9RL66NIXjjYMnoannJx3OmYaMX1TK9RX6ellMKBT+9MvN0mWIrVtlvyN5JKwMSe669OyPUXf0Wtx442aIpbvFNYQojxhPZ2ZPNu2u+MSjNNK/SDqVSTEtft07fs8qGHu4v+DkhaSksqD7r4z5",
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/l+duKQKcVCD3xzBIRwW2fQ==",
         "icono": "https://i.postimg.cc/fLn5s8T0/download-2026-02-18T101810-066.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "type": "HLS"
       },
       {
         "name": "LA PANTERA ROSA",
-        "url": "Ria3+UX8M/b9J2clY+9ZU/UQaLljGf7oRwk48RAteLCXcj2XJWKlOl6qxCQ2cn16eI7F2SGCGXlNUg4XWtQJsIJOZ/76QdvMDaIMwRlW16S8brhcxo6K+sdgxhWrzxj5ipeQxIEB72fIRHi0n/yJqQ==",
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/SKheZYeP476bIAcd9fvWjQ==",
         "icono": "https://i.postimg.cc/Yqn30rqR/download-2026-02-18T101829-780.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "type": "HLS"
       },
       {
         "name": "EL CHAPULIN COLORADO",
@@ -3569,17 +3523,8 @@
       },
       {
         "name": "EL CHAVO DEL 8",
-        "url": "Ria3+UX8M/b9J2clY+9ZU/UQaLljGf7oRwk48RAteLD75eujXy9xiZQK5f5JvLFhJx3OmYaMX1TK9RX6ellMKBT+9MvN0mWIrVtlvyN5JKwMSe669OyPUXf0Wtx442aIvWIK34D1v3t+FT4iHA7dh8SjNNK/SDqVSTEtft07fs8qGHu4v+DkhaSksqD7r4z5",
-        "icono": "https://i.ibb.co/S48tv2qb/R-4.png",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "10/1.0.9",
-          "X-Hash": "8gcT6Mz6haGj79D0fhlQJBNLdjfYuJjPMltFWrUFV2wkJzBV6RnYYEAjcJ6jAetyLshbCtXcsU6TMUeooGRAbvmb9gYUBZdCnh09cYpDG3vCC2Dt-SdhimBf7Rd8JWD5ZwMFFsx2idx9DvgzRGVjiH_ptAgg1b2I6eIRe-sQWA033BufLVq3-Z6ZnlTEr36Vl_pXRjSbllUnkI88_EGfoseGkDLvl-jERdLOO5q5otrgiFROz3_HaaEDIfwq1XMIJGoO-mdNRFqLGRJg3CenkvHgOhvLP8y-YcjbK-NtOXdKPxTr299yRtRxN5GHu-IhtgssCh4Aaub3f8bpgNvzcvy7pX1SMfWfr7qXq6DDf6f6OTi0Ed3NasRoy3WzOX2h5z18JkqHkEj9f74zZahByRopl2zmSlfqQJ_O6uDI8TJcXDKpKzAHA0nyJMxJ7OF2qf8gxyMD_KapscJ49mwuNBERDyFP6_XN0eShPF64Kor7wlxQFGEpWvkIR1C25BOPgSu1A4eWj18Brw86POpzAq7Ja1j_7qyJer-RfHtyBO4",
-          "X-Did": "5326b76fd36cf9e9",
-          "User-Agent": "Magma Player/10",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
+        "url": "hR07J+t7N10QayBx9g9AlfQxp7bgFkNYrGPeRF9W+3MGw5dtrk6oHc/MTfUsSRK/XhrxJlojRbnnQPof8Fq2+Q==",
+        "icono": "https://i.ibb.co/S48tv2qb/R-4.png"
       }
     ]
   },
