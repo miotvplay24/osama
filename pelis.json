@@ -3,171 +3,8 @@
         "name": "RECOMENDADOS",
         "samples": [
             {
-                "name": "El falsificador",
-                "url": "http://goovdme.967sd1f.homes/vod/7CDEF06692E04435A1BF907F99064515_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/bJFvxY8S3kM7h2ScWhfVozROstF.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/uHavtqbnMDcwqVK9Y94ZQSWxtCw.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/v6tI8owAqlnjhLRyS57ERNNgynQ.png",
-                "descripcion": "Un artista en ciernes se convierte en un experto falsario para bandas criminales en la Roma de los años setenta. Drama inspirado en hechos reales.",
-                "anio": "2025",
-                "genero": "Crimen, Drama",
-                "duracion": "110 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Anaconda",
-                "url": "http://goovdme.967sd1f.homes/vod/905116CEC8154C9D8B34E7E8D8FF6CE9_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/zX1KJPiGTrzpFcjfOWlmqdRgpQd.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yo41R39airbREp0PYfG30Ofxtgt.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/6DMPieh2aNPVGsWRM3cZCPQXYdl.png",
-                "descripcion": "Doug y Griff son muy buenos amigos desde que eran niños y siempre han soñado con hacer un remake de su película favorita de todos los tiempos: el «clásico cinematográfico» Anaconda. Cuando una crisis de mediana edad les anima a lanzarse por fin a la aventura, se adentran en la selva amazónica para empezar a rodar. Pero las cosas se ponen serias cuando aparece una anaconda gigante de verdad, convirtiendo su caótico y cómico plató de rodaje en una situación mortal.",
-                "anio": "2025",
-                "genero": "Aventura, Comedia, Terror",
-                "duracion": "100 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Dia del fin del mundo: Migracion",
-                "url": "http://goovdme.967sd1f.homes/vod/B6CC461565F04AED93527F15449F7EA2_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/hTZHedGdt9jNzjlcXYTpw6DgStf.png",
-                "descripcion": "La familia Garrity superviviente debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
-                "anio": "2026",
-                "genero": "Aventura, Suspense, Ciencia ficción",
-                "duracion": "98 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Los hermanos demolicion",
-                "url": "http://goovdme.967sd1f.homes/vod/95A07ACC9CA741AD8A8BBA4D7741604B_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/ttEESBvVrO8ngZr19qp6eBMVS9F.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qE02kCXOOqINs0iRBjKoZbp8cg8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/rPXZj27ismaeSBzTxPrt9nwonOv.png",
-                "descripcion": "Un improbable dúo de hermanastros, uno un impulsivo detective y el otro un disciplinado, se ven atraídos por el asesinato de su padre en Hawai, lo que les lleva a un peligroso viaje para desenmascarar una conspiración de largo alcance.",
-                "anio": "2026",
-                "genero": "Acción, Comedia, Crimen, Misterio",
-                "duracion": "124 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Ella McCay",
-                "url": "http://goovdme.967sd1f.homes/vod/02EC30ECFFE8432CB20C4D0477FAEF8B_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/iQCtK477yqp6xnHHrQG2P0lXoow.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/tuxaaKnfL5oYWSnBD9rYXzAb0EF.png",
-                "descripcion": "Una joven política idealista hace malabarismos con sus problemas familiares y su estresante vida laboral mientras se prepara para ocupar nada menos que el puesto de gobernadora de su estado, ocupando el puesto de su mentor.",
-                "anio": "2025",
-                "genero": "Comedia, Drama",
-                "duracion": "115 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Terror en Silen Hill: regreso al infierno",
-                "url": "http://goovdme.967sd1f.homes/vod/9004C0DEC4A44CAB825CF23C1A2EDCE7_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/5Y2TeCVEnwPbd4FDShGbkKYw6GE.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/i1mVV78SIQdV7K7pxRUh47CSVn6.png",
-                "descripcion": "Impulsado por las sombras de su pasado, James Sunderland regresa a Silent Hill para encontrar a su amor perdido, Mary Crane. Pero el pequeño pueblo oscuro y deprimente ya no es el lugar de sus recuerdos. James se encuentra con personajes que le parecen demasiado familiares y que intentan distraerlo de su búsqueda de Mary. Cuanto más busca a Mary, más comienza a preguntarse si esto sigue siendo la realidad, o si ha caído en el oscuro inframundo de Jacob Crane.",
-                "anio": "2026",
-                "genero": "Terror, Misterio",
-                "duracion": "106 min",
-                "type": "PELICULA"
-            },
-
-			 {
-                "name": "Un fantasma util",
-                "url": "http://goovdme.967sd1f.homes/vod/6F5E547A731E4D508A28863E3770D7F1_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/t1TwPiXtkE3WlkU5r7cqKwTth0C.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ceTxx1kqdygf9mBvVOT9oE1OCil.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/9NFb8RjZaQIH9dHyAVSKuTf61Ld.png",
-                "descripcion": "Tras la trágica muerte de Nat a causa de la contaminación por polvo, March se ve consumido por el dolor. Pero su vida cotidiana da un vuelco cuando descubre que el espíritu de su mujer se ha reencarnado en una aspiradora. Por absurdo que parezca, su vínculo se reaviva, haciéndose más fuerte que nunca...",
-                "anio": "2025",
-                "genero": "Comedia, Drama, Fantasía",
-                "duracion": "130 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "La empleada",
-                "url": "http://goovdme.967sd1f.homes/vod/BFC8FD732808430594123AAB66BC6648_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/A6S15iqfHpoit02leDfDVnpklys.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/nncYxwFgTm2sIPPWDjzc9Ygf6U2.png",
-                "descripcion": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
-                "anio": "2025",
-                "genero": "Misterio, Suspense",
-                "duracion": "131 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Christy",
-                "url": "http://goovdme.967sd1f.homes/vod/B4457CA618784BDF8DC752392D6BE7C1_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/ssy1uHGZkuXLkIWJWrtsBczPvVC.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/d95WgAQXqDVlqbEHdLWfyvRG2ms.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/yBE4DfntkIfl2DbjcmIoz7anSGp.png",
-                "descripcion": "Biopic de Christy Martin, la boxeadora de más éxito de los años 90.",
-                "anio": "2025",
-                "genero": "Historia, Drama",
-                "duracion": "135 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Marty Supreme",
-                "url": "http://goovdme.967sd1f.homes/vod/9026D1ADD8094BC68AECA78089C75D27_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jBOhqsbzEL7Ks3NWy98iI7YDzBh.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/m98Zm9qsg5lh0OwqnupYC3FAFmb.png",
-                "descripcion": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
-                "anio": "2025",
-                "genero": "Drama",
-                "duracion": "150 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Hermandad: Estado de terror",
-                "url": "http://goovdme.967sd1f.homes/vod/CB859EC759764E0E93F0D363D1C4805E_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/xdyCFS4jUzp7kghoptaiYqir48X.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/Ro6GbJIouDmPopQunreLF15h7G.png",
-                "descripcion": "En medio de una ola de violencia inédita que sacude São Paulo, una abogada ligada al mundo criminal debe pactar con la policía para salvar a su sobrina secuestrada.",
-                "anio": "2026",
-                "genero": "Acción, Suspense, Crimen, Drama",
-                "duracion": "103 min",
-                "type": "PELICULA"
-            },
-
-			  {
-                "name": "Primate",
-                "url": "http://goovdme.967sd1f.homes/vod/D442454C84A04FDEA6AB6E53480AB5A3_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/cyqEghDphEUunLfongtpmROjpID.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/qca9e83DzC3zBexlFx3HKZMNawF.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/3lrUfCP2ftPb3TKIX2SNSISFXq3.png",
-                "descripcion": "Lucy, una estudiante universitaria, pasa las vacaciones con sus amigos en la casa de su familia en Hawái, donde vive con su mascota, un chimpancé llamado Ben. Sin embargo, cuando Ben contrae rabia tras ser mordido por un animal rabioso, el grupo debe luchar por su vida para evitar al ahora violento chimpancé.",
-                "anio": "2026",
-                "genero": "Terror, Suspense",
-                "duracion": "89 min",
-                "type": "PELICULA"
-            },
-            {
-                "name": "Patriotismo",
-                "url": "http://goovdme.967sd1f.homes/vod/88ABAE1228674C8BAF268F8F8CBF7060_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/YCunHbbBUBKx6daM9XZAXkOH8k.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/a8uYEN6CkQli5OErE9Nzcoe5c2n.png",
-                "descripcion": "Un viajero misterioso se desliza hasta el corazón de los bajos fondos de Karachi y asciende en sus filas con precisión letal, solo para destrozar el notorio nexo entre el ISI y el submundo desde adentro.",
-                "anio": "2025",
-                "genero": "Acción, Suspense",
-                "duracion": "212 min",
-                "type": "PELICULA"
-            },
-			
-			
-			
-			
-			
-			{
                 "name": "Un juego de tres",
-                "url": "http://goovdme.967sd1f.homes/vod/FAE381D8CF154C4EBE7410C71F033934_media.ts",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwY284UGQ3VU9DYnNCbDdUK29CTFlUdnYyOXd4YWdYUzhpU0VpdGNwQ3Q5UjhKMlRaLzFsQ2c4TkVXclRZZkR0aVk9",
                 "icono": "https://image.tmdb.org/t/p/original/4Ptyvpmnk9RcxxdK610VtXpHf1w.jpg",
                 "iconoHorizontal": "https://image.tmdb.org/t/p/original/vXYRqIySwaa56quJGRKxXfSaTh0.jpg",
                 "iconpng": "https://image.tmdb.org/t/p/original/jOhlnR5KHvpFnDF6vkISjjAWdBj.png",
@@ -178,43 +15,173 @@
                 "type": "PELICULA"
             },
             {
-                "name": "Zootopia 2",
-                "url": "http://goovdme.967sd1f.homes/vod/F6469DE4069A45B89CA4C66946B5243F_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/oDaWFIrBuOaFrTmBpAlMfmsa81N.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/u5P4Zfz72YrWnKkjz0s4pYxHLnl.png",
-                "descripcion": "Después de resolver el caso más importante en la historia de Zootrópolis, los policías novatos Judy Hopps y Nick Wilde descubren que su asociación no es tan sólida como pensaban cuando el Jefe Bogo les ordena unirse al programa de consejería \"Compañeros en Crisis\". Pero no pasa mucho tiempo para que su asociación se ponga a prueba al máximo, cuando la llegada de Gary, la serpiente, pone la ciudad patas arriba.",
+                "name": "La empleada",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwY3JuSjZTMHJRV0NlL1BaeGFsWVdCbVcraE9PclBPbFR0a2tGdEJQenB6Nm1SZTlraTNQbkUraU1nYmdidVI5bGc9",
+                "icono": "https://image.tmdb.org/t/p/original/A6S15iqfHpoit02leDfDVnpklys.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/nncYxwFgTm2sIPPWDjzc9Ygf6U2.png",
+                "descripcion": "Una joven (Sydney Sweeney), con un pasado complicado comienza a trabajar como asistenta en la lujosa casa de los Winchester. A medida que se adentra en la vida de la familia, descubrirá secretos oscuros que pondrán en peligro su seguridad, pero quizá ya sea demasiado tarde... Adaptación de la novela de Freida McFadden.",
                 "anio": "2025",
-                "genero": "Animación, Comedia, Aventura, Familia, Misterio",
+                "genero": "Misterio, Suspense",
+                "duracion": "131 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Marty Supreme",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZlZ4WmZZV3loNjdTMWw4UTU4TW5YdUgyTkFyWllrK3hYbVZPSmhxZWRud1VwTnBOOG5iMTYwYjUzZjk2YU1xRnc9",
+                "icono": "https://image.tmdb.org/t/p/original/mijSU0Rws3tBBbhdE5udxPSaZvF.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jBOhqsbzEL7Ks3NWy98iI7YDzBh.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/m98Zm9qsg5lh0OwqnupYC3FAFmb.png",
+                "descripcion": "Biopic de Marty Reisman, un buscavidas convertido en campeón de ping pong, desde que empezó a jugar por apuestas en Manhattan hasta ganar 22 títulos importantes y convertirse en el más veterano en ganar una competición nacional de deportes de raqueta, con 67 años.",
+                "anio": "2025",
+                "genero": "Drama",
+                "duracion": "150 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Patriotismo",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwYzBPOFpLeVJpS2N4UzlHWExNUGJ4Ni8waW1iK21lNzMwSnpacTU4dHhGT21odXE0ZHZUb0hLQXpxZVB5MUl0SFE9",
+                "icono": "https://image.tmdb.org/t/p/original/kOLkpkS2T4HAdA6J7uq4eipNTup.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/YCunHbbBUBKx6daM9XZAXkOH8k.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/a8uYEN6CkQli5OErE9Nzcoe5c2n.png",
+                "descripcion": "Un viajero misterioso se desliza hasta el corazón de los bajos fondos de Karachi y asciende en sus filas con precisión letal, solo para destrozar el notorio nexo entre el ISI y el submundo desde adentro.",
+                "anio": "2025",
+                "genero": "Acción, Suspense",
+                "duracion": "212 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "28 años después: El templo de los huesos",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZDlUK2NQVXE3aU9JQVFCRThTSEo1TnVBZzY1N0VYRjMrb1lGbmtMR280T2QxQlZpWHhQb2wwQko0RXBrUEdnVW89",
+                "icono": "https://image.tmdb.org/t/p/original/9qlqDX3lo7CiFCDZV1Qwopwm5rz.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/ryynYdXgP2vLZKH3154bLkNp1kx.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/y7dGrEGNpHyYdrzfYgXbfqsqyvc.png",
+                "descripcion": "El Dr. Kelson (Ralph Fiennes) se ve envuelto en una nueva y sorprendente relación, cuyas consecuencias podrían cambiar el mundo tal y como se conoce. Por otra parte, el encuentro de Spike (Alfie Williams) con el Gran Lord Jimmy Crystal (Jack O'Connell) se convierte en una pesadilla de la que el chico no puede escapar. En este mundo, los infectados ya no son la mayor amenaza para la supervivencia, ya que la inhumanidad de los supervivientes puede ser aún más extraña y aterradora.",
+                "anio": "2026",
+                "genero": "Terror, Suspense, Ciencia ficción",
+                "duracion": "109 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Sin piedad",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZmlnVFNFSjhIcUJsWk5Ea1pUbE5LUXBpa1V3TTBqVnZzdUZHUVJRKzFnaXFCZC9LNmh2eEwzRUF5T0JTeCt5dGM9",
+                "icono": "https://image.tmdb.org/t/p/original/9zBNg8koM3fjUTPT7QeJHuGG2r9.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/po1niVuud0tX86xOFegO5omQ2wX.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/z5s7nhm98yn2JkdIUVh1Z7Jx9sM.png",
+                "descripcion": "En un futuro cercano, un detective es juzgado por el asesinato de su esposa. Tiene noventa minutos para demostrar su inocencia ante el Juez de Inteligencia Artificial que una vez defendió, antes de que este determine su destino.",
+                "anio": "2026",
+                "genero": "Ciencia ficción, Acción, Suspense",
+                "duracion": "100 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Cortafuego",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZC9sVHJQdGNLeXNZdE0zNFZJQmpwbEh4MDF4L1didE44T1dOa2hCaVQ1RGlmVU9wSHVMeHFxWkRLM0FSbFUrTlk9",
+                "icono": "https://image.tmdb.org/t/p/original/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/eORpfbqJkNBJwq9RjIFFFDTyxCy.png",
+                "descripcion": "Tras la muerte del marido de Mara, ella y su familia visitan la casa de verano en el bosque para prepararla para la venta. Lo que comienza como un intento de cerrar su duelo se convierte en una pesadilla cuando la hija de Mara, Lide, desaparece justo en el momento en el que se declara un incendio forestal en la zona.",
+                "anio": "2026",
+                "genero": "Suspense, Drama",
                 "duracion": "107 min",
                 "type": "PELICULA"
             },
-			
-			
-			{
-                "name": "Plan familiar 2",
-                "url": "http://goovdme.967sd1f.homes/vod/8BF122973C4B4BCB9C57E53E03822B86_media.mp4",
-                "icono": "https://image.tmdb.org/t/p/original/sxoN17pPyL6SiqD8F6DXmTPILwJ.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/olxGhqvRqlE4IuN2sHBHuez6jD8.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/w500/7QpRIAJVEJtxPaOBhHk2kS8cAkM.png",
-                "descripcion": "Dan ha dejado atrás su pasado como asesino y lo único que quiere esta Navidad es pasar tiempo de calidad con sus hijos. Pero, al ver que su hija tiene otros planes, organiza un viaje familiar a Londres... y los pone a todos en la mira de un enemigo inesperado.",
+            {
+                "name": "En un instante (En un abrir y cerrar los ojos)",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZEhkdHY4b2pQclhOM3FoWG5SL0ZxSjJhSFMyVWIrSW5INEFwWW9tZ1lCS1Vxc3owaDREYU50S2libVVvRGZRbm89",
+                "icono": "https://image.tmdb.org/t/p/original/4vWqIdoBavo1htxmxlScDniOS9C.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hS7d9UCjOUGi1u5UL6HTqa3etND.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/z03RITcxONufdi6NhlrshlTzB5J.png",
+                "descripcion": "La historia del universo y la vida humana contada a través de tres historias entrelazadas.",
+                "anio": "2026",
+                "genero": "Drama, Ciencia ficción",
+                "duracion": "94 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Núremberg",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwY2UxWWZDc0JWVU1OVDdJcm9GaHRsYXJIZGZGYUtSajhuc1lSOWV4bzdLbWcyVSszaUk0VTdNY2U3dWltVzk5Qkk9",
+                "icono": "https://image.tmdb.org/t/p/original/5sIW7PmpnZDUoYGuw0HqEBbmzpa.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/bf5TG9RODkPXmtJSgf8Iymof1wl.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/suvUHoZwn2iSAMHbd71lJqJNRhV.png",
+                "descripcion": "Un psiquiatra estadounidense examina a 22 criminales nazis durante los juicios de Núremberg. Su fascinación por Hermann Göring y su obsesiva búsqueda por entender la naturaleza del mal lo llevan a un oscuro destino.",
                 "anio": "2025",
-                "genero": "Acción, Comedia",
+                "genero": "Historia, Drama",
+                "duracion": "150 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Acusada",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZUVKRE56RUZrS3JGN0tkdzZEQW50QWNwSENSanFBaWpyM3FNRlh1UjRyTjN6MzVXdFcyb256a0ZvT3VwYnA5MUE9",
+                "icono": "https://image.tmdb.org/t/p/original/eeP55mdqj4KpWtEPBvZJoxmnkXI.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/8QRMlkCMFNKZM2ApnIaut5t4snf.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/original/mGf9g01RTgvEGXMl7WzO8RxaX6a.png",
+                "descripcion": "La vida de una ginecóloga se desboca cuando una serie de acusaciones graves ponen en peligro su trabajo y su matrimonio. Mientras tanto, su esposa busca la verdad.",
+                "anio": "2026",
+                "genero": "Suspense, Misterio, Drama",
                 "duracion": "106 min",
                 "type": "PELICULA"
             },
             {
-                "name": "Caceria de brujas",
-                "url": "http://goovdme.967sd1f.homes/vod/37CA4E658D0D4B7184C0E876D615D194_media.ts",
-                "icono": "https://image.tmdb.org/t/p/original/n1hrhyL2VWKilFBcUaoUdvG8QYy.jpg",
-                "iconoHorizontal": "https://image.tmdb.org/t/p/original/x0J0OMKwnX1eeVRQWeb2D05yd3K.jpg",
-                "iconpng": "https://image.tmdb.org/t/p/original/2OwnQJqK4BXHtJwFwvLoDl0VXBB.png",
-                "descripcion": "Una profesora universitaria se encuentra en una encrucijada personal y profesional cuando una estudiante estrella acusa a uno de sus compañeros de trabajo y un oscuro secreto de su pasado amenaza con salir a la luz.",
-                "anio": "2025",
-                "genero": "Drama, Suspense",
-                "duracion": "139 min",
+                "name": "Alerta extincion",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZCtOVGYxM2RaQVpjY0xyR3pKdmZvQllmK09paW93WDQ3WXZ2UW5sTUs0THVyTWNOZXZJNmsxWWVIVDh0L1N2NVU9",
+                "icono": "https://image.tmdb.org/t/p/original/aioKGmYADqq09GEIY9vPhK5xoza.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/yBhMcjXUcgjoVxmtE19M38bcslL.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/g72Klrk7etavfTqYFan3rTRiZSW.png",
+                "descripcion": "Cuando un hongo mutante altamente contagioso escapa de una instalación sellada, dos jóvenes empleados, acompañados por un veterano agente de bioterrorismo, deben sobrevivir al turno de noche más alocado de la historia para salvar a la humanidad de la extinción, mientras el microorganismo se propaga y destruye todo a su paso.",
+                "anio": "2026",
+                "genero": "Terror, Ciencia ficción, Comedia",
+                "duracion": "99 min",
                 "type": "PELICULA"
             },
+            {
+                "name": "Flow callejero 3",
+                "url": "ODFnaHM0aXVLMksyQkNoRFpjWXBxaHNxcWtTZThYWHV3WDZpNS9iSFNpKzFQVTBkemdNVTRrY0l0NkhJczZBMXptM2t2bC8wT0h2Q3JMaTJGK0dYcHc9PQ==",
+                "icono": "https://image.tmdb.org/t/p/original/dTCQ9KPhMWUM6mHWZzR4Ws1gl74.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/jhfJZ82qzcMV4Kr7G0uczdU4n2v.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/uqcRuUZhph8WaLyRmfzZGKiKjQW.png",
+                "descripcion": "Afligidos por la pérdida y las consecuencias de sus crímenes, los hermanos Traoré tienen una última oportunidad para cambiar de rumbo en el capítulo final de la trilogía.",
+                "anio": "2026",
+                "genero": "Drama",
+                "duracion": "112 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Máquina de guerra",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwY1Rlb1M4aGV6aEFMeDhaVFBJYjlkbWxUNGhidGhrZHFrUFV4aW1XS0Z2Y1lydkZPbVdzQWgyeS82UmdVTEhoU1k9",
+                "icono": "https://image.tmdb.org/t/p/original/d5YmQx9kPLQBHEboGwrAavypztB.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/72I2CuBl7ArEgv4rijdnVvd3WOS.png",
+                "descripcion": "En una última misión agotadora durante el entrenamiento para ser ranger, un ingeniero de combate debe liderar a su unidad contra una gigantesca máquina asesina de otro mundo.",
+                "anio": "2026",
+                "genero": "Acción, Ciencia ficción, Suspense",
+                "duracion": "106 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "Love Me, Love Me",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwY0FWK0xPdmtYU1UzRG9YcXlOdFptTFJ3eW83RUtWZVQ3WDN2Q2gwdlNwRWpqRjgraDgyemt4VnRlM05OL2s3SlU9",
+                "icono": "https://image.tmdb.org/t/p/original/jfwHKRHRE2X4NTexdzblaioHH51.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/cn6DZaISoL4fAuhrO10nuD27rg0.png",
+                "descripcion": "June se muda a Italia para empezar de cero tras la muerte de su hermano. En su nueva escuela de élite, se siente atraída por James, un peligroso bully involucrado en peleas clandestinas de MMA, pero comienza a salir con su mejor amigo, Will, el estudiante de honor perfecto. Sin embargo, las apariencias engañan, y June pronto descubre que nadie en su escuela es quien parece ser y todos esconden un secreto. A medida que aumenta la tensión y salen a la luz verdades ocultas, June debe decidir adónde pertenece realmente su corazón.",
+                "anio": "2026",
+                "genero": "Romance, Drama",
+                "duracion": "99 min",
+                "type": "PELICULA"
+            },
+            {
+                "name": "El engano",
+                "url": "N1g2K3I2Z24zS1VRSmZ1UmpXblNaWWlkYlJ5elQ4ZlorNThRL0RFT2gwZkNYRkovcUtnVjA1VXFUYjhDYThXREdHWGxMNmEyWlVrVEd2L2kvWFFENkNmVU9wSHVMeHFxWkRLM0FSbFUrTlk9",
+                "icono": "https://image.tmdb.org/t/p/original/uuIP7lRgzSjaZ4CT33WHfctLARs.jpg",
+                "iconoHorizontal": "https://image.tmdb.org/t/p/original/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
+                "iconpng": "https://image.tmdb.org/t/p/w500/lkhRvQv2Lm93JLZ30Wn28DoMEW8.png",
+                "descripcion": "Una pirata retirada que vive tranquilamente en una remota isla debe enfrentarse a su pasado y usar sus habilidades letales para salvar a su familia de un implacable asedio cuando su antiguo capitán aparece para vengarse de ella.",
+                "anio": "2026",
+                "genero": "Acción, Suspense",
+                "duracion": "102 min",
+                "type": "PELICULA"
+            }
         ]
     },
     {
@@ -29875,6 +29842,7 @@
                 "duracion": "75 min",
                 "type": "PELICULA"
             }
+    
         ]
     }
 ]
