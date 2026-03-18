@@ -1,6 +1,6 @@
 {
-  "versionName": "11.0",
-  "versionCode": 11,
+  "versionName": "1.0",
+  "versionCode": 1,
   "apkUrl": "https://raw.githubusercontent.com/miotvplay24/osama/main/iptv_release.apk",
   "mandatory": true,
   "message": "• Correcciones de estabilidad• Mejor rendimiento en Android T"
