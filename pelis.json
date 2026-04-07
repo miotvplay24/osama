@@ -540,9 +540,21 @@
     ]
   },
   {
-        "name": "Accion",
+        "name": "ACCION",
         "samples": [
 
+          {
+        "name": "Maquina de Guerra",
+        "url": "RSncxIFJ/M/ItXcL66n7vVk6ynAxS/RnGUBouIbG2X2tId8aHxXZ5yRg+cx32jI7jtthQZ/gmzl5zu2T3DttZmgUtighzQP5c9Rok4sqs1E=",
+        "icono": "https://i.postimg.cc/cHf6qTYS/Warmachine2026Netflixposterspanish.webp",
+        "iconoHorizontal": "https://i.postimg.cc/QdB8G0GR/maquina-de-guerra.webp",
+        "iconpng": "https://i.postimg.cc/cHf6qTYS/Warmachine2026Netflixposterspanish.webp",
+        "descripcion": "Sigue a los reclutasfinales de un agotadorcampo de entrenamiento de operaciones especialesque se enfrentan a una fuerza letal del mas alla de este mundo.",
+        "anio": "2026",
+        "genero": "Acción",
+        "duracion": "109 min",
+        "type": "PELICULA"
+            },
             {
         "name": "Avatar: Fuego y Ceniza",
         "url": "RSncxIFJ/M/ItXcL66n7vcowsQ9klFrteUaT4CIw/EToCY3HjIfSRZP5pQHViOFT0JagqX+5645Cq8ldOqVs4BEWURrk3xpLgPNXaq+bENY=",
