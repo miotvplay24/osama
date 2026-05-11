@@ -40,12 +40,6 @@
       },
       {
         "name": "EVENTO PARAGUAY 4",
-        "url": "termRB8D6FHnFpXFXjhLVDh89J1xs2fuMwkEJ0mVvpimQGMohjXC3U+r7WKkMYQw",
-        "type": "CLEARKEY",
-        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
-      },
-      {
-        "name": "EVENTO PARAGUAY 5",
         "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhblFsPjt05bIfZOtR/PzZntBU3F+QWliQ/VJ9nelYE5KhgvPsP4rVsYC7AmZD9fJYU414MeT4JAd74YckVTfuf",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
@@ -55,6 +49,24 @@
           "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "FireFox"
         }
+      },
+      {
+        "name": "EVENTO PARAGUAY 5",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KD4wia5/LuYox7z6ZBuNkOGnJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcjyDVS5CBbZ+xCfG++BBCww==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
+        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
+      },
+      {
+        "name": "EVENTO PARAGUAY 6",
+        "url": "termRB8D6FHnFpXFXjhLVDh89J1xs2fuMwkEJ0mVvpimQGMohjXC3U+r7WKkMYQw",
+        "type": "CLEARKEY",
+        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
       }
     ]
   },
