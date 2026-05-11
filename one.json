@@ -43,6 +43,18 @@
         "url": "termRB8D6FHnFpXFXjhLVDh89J1xs2fuMwkEJ0mVvpimQGMohjXC3U+r7WKkMYQw",
         "type": "CLEARKEY",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
+      },
+      {
+        "name": "EVENTO PARAGUAY 5",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhblFsPjt05bIfZOtR/PzZntBU3F+QWliQ/VJ9nelYE5KhgvPsP4rVsYC7AmZD9fJYU414MeT4JAd74YckVTfuf",
+        "type": "CLEARKEY",
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
+        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "FireFox"
+        }
       }
     ]
   },
@@ -1459,18 +1471,6 @@
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "ESPN 1 SUR OPC 2",
-        "url": "termRB8D6FHnFpXFXjhLVDh89J1xs2fuMwkEJ0mVvpjilBUa/ezvk1Y3dnZeZALJ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0LDPhYU1cG1ttg7JrsYJ9WQZ4iKrbI27X2EXy31s4VhVCrprrAkbAeyrWmWhkqbk4CnvVQUbVxGh3va6WMtql0sN6Xw9mnWxcC9TnHFhW9/f7ZT7xXKicWL9nJI9YLpan0=",
-        "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/guia-de-tv",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
