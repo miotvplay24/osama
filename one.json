@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "EVENTO 1",
-        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDqpAzD2Qe9HzXYOX/hdDCFHJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxVAFK8BD6hkeZ/Gz+t+1BPXj6qFAt0NU8TKq7h5Ox67FfbdDcg1/Bpr7DB39R06nTg==",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDbEeoGeXsjB32zNRQjBAtoHJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxd6g4GjHfmQ3uPW6V5Wy+aA=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2j+S6s3eeOFbPzg++rgoVBMKGVM8tBpXr6Z5JMmh4FGJwBJzoRLna5XtIHkQUV9tXFIgR+mYudpb+jnDXng1THE4MGp+g2/PpPeSULS9n6V+qDjCo+7q2UdcHt0AsqiGFqTsAEH4f2O5IVhkYNInKdo=",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -40,7 +40,7 @@
       },
       {
         "name": "EVENTO 4",
-        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDqpAzD2Qe9HzXYOX/hdDCFHJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxVAFK8BD6hkeZ/Gz+t+1BPXj6qFAt0NU8TKq7h5Ox67FfbdDcg1/Bpr7DB39R06nTg==",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDqpAzD2Qe9HzXYOX/hdDCFHJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxd6g4GjHfmQ3uPW6V5Wy+aA=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -1661,7 +1661,7 @@
       },
       {
         "name": "ESPN 6",
-        "url": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pBBz0aFFyqreoLEyZ5W27pF+3gHAIsEw7X2wtM/dAo3upo9QA9S/zaty9xX9AMRHbX1uKNVXwG1xxkj2EXYHkbG",
+        "url": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSjby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkaRZRdVSZrV3qOCIhW45/XpgkDLFC8Nmg1+BJw+ZAj3m8JQFo9kOAYiFik9TnHFm85nM96vvEjp9cLLOyR9QViROLRBjm/pqCP49fcQv7eqJo3uFLUFjoZcdOVEBcGKkrCZzy468JlPR2gDjfVKZqzgMysAsbCkIPldcsPug+PwmvGjt9VwYPOot0hniL+eItJoa1nsxpF0B8hwTAxvPrbm71F/x5kZzoTmiIQ7Qme6Zs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGiG/18LrMtnU77s342b/LjznJ8gSqmGWHDki/3qOHIop70FvtvIVKZwDUr1U/HIe7QT5kLbQ++D37qoin12nkL9+aNpu7VAhGsFJJJtsSofb7Ya+zyAdVep9nQKSWIbcVR2r23gAARMfBIx8sEv6xx4CNVehETHc3dbIqF5dj7b/IMJynaygNCkXUiFx0+qpuJLnY0nvg+yTfl944r8SEipgIrW/9ShlX621aEW+yj+/PtFZUbzeFKSDrLTao1EFdeDPHffaDR2yLccRGwDhANFV8mFyRBMkyrMXfxXeOmgR7sZvF4IcJariLxyflWiTmY=",
         "type": "CLEARKEY",
         "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0KN8Ezx6+T1G/TrLdtL/+45yvX5iCh9D34niATjHFVV4JGSSFdaAau8VCEvBdZqm5tlKJ1kwv70UiW/quLws3NuT8AxQkSAJragyKC1FOyBELZT7xXKicWL9nJI9YLpan0=",
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN6/EXPORTACION_WEB/SS/ESPN6_t-290x163.png",
@@ -1673,7 +1673,7 @@
       },
       {
         "name": "ESPN 7",
-        "url": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pBBz0aFFyqreoLEyZ5W27pF6SYXjopuuWo2OrcLZjuygJo9QA9S/zaty9xX9AMRHbVI9xU7ew31aEC5JdIqmfRv",
+        "url": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSjby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkaRZRdVSZrV3qOCIhW45/XpgkDLFC8Nmg1+BJw+ZAj3m8JQFo9kOAYiFik9TnHFm85nM96vvEjp9cLLOyR9QViROLRBjm/pqCP49fcQv7eqJo3uFLUFjoZcdOVEBcGKkrCZzy468JlPR2gDjfVKZqzgMysAsbCkIPldcsPug+PwmvGjt9VwYPOot0hniL+eItJoa1nsxpF0B8hwTAxvPrbm71F/x5kZzoTmiIQ7Qme6Zs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGiG/18LrMtnU77s342b/LjznJ8gSqmGWHDki/3qOHIop70FvtvIVKZwDUr1U/HIe7QT5kLbQ++D37qoin12nkL9+aNpu7VAhGsFJJJtsSofb7Ya+zyAdVep9nQKSWIbcVR2r23gAARMfBIx8sEv6xx4CNVehETHc3dbIqF5dj7b/IMJynaygNCkXUiFx0+qpuJLnY0nvg+yTfl944r8SEipgIrW/9ShlX621aEW+yj+/PtFZUbzeFKSDrLTao1EFddXXBp0MFMm594uE7+MaUGtV8mFyRBMkyrMXfxXeOmgRyEHxjihT0Nl7JQ+fQhxYBo=",
         "type": "CLEARKEY",
         "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0KN8Ezx6+T1G/TrLdtL/+45yvX5iCh9D34niATjHFVV4JGSSFdaAau8VCEvBdZqm5tlKJ1kwv70UiW/quLws3NuT8AxQkSAJragyKC1FOyBELZT7xXKicWL9nJI9YLpan0=",
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ESPN7/EXPORTACION_WEB/SS/ESPN7_t-290x163.png",
@@ -1685,10 +1685,10 @@
       },
       {
         "name": "ESPN PREMIUM",
-        "url": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCr+GIPoB6rwb7Mh0DcJIzQd/nFkSrtf+PUm5IiLakMdtaJp6EM5bpYtri4R8E9C4PyOsBgV41byVFqlZ8hU1BSxAeX96FYxHy5dvq1ppe11A==",
+        "url": "WJV8bqurAK7+F3RgM8JvgvW3oBgTKX7lWuLi6I9dwSjby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkaRZRdVSZrV3qOCIhW45/XpgkDLFC8Nmg1+BJw+ZAj3m8JQFo9kOAYiFik9TnHFm85nM96vvEjp9cLLOyR9QViROLRBjm/pqCP49fcQv7eqJo3uFLUFjoZcdOVEBcGKkrCZzy468JlPR2gDjfVKZqzgMysAsbCkIPldcsPug+PwmvGjt9VwYPOot0hniL+eItJoa1nsxpF0B8hwTAxvPrbm71F/x5kZzoTmiIQ7Qme6Zs+hcd/N1sU+vDW88WQe7WHD1XL6ljz/ObqudjRfkwV9E6QWdijeir/t+mWYpeMETMuF1nF5gUkQbNP/ECdCSoYicS1wBNilloHAXVDSttIb9/k841KNB4lyBs3AvcO9D35BBt69UCigz4ASAWwCRGiG/18LrMtnU77s342b/LjznJ8gSqmGWHDki/3qOHIop70FvtvIVKZwDUr1U/HIe7QT5kLbQ++D37qoin12nkL9+aNpu7VAhGsFJJJtsSofb7Ya+zyAdVep9nQKSWIbcVR2r23gAARMfBIx8sEv6xx4CNVehETHc3dbIqF5dj7b/IMJynaygNCkXUiFx0+qpuJLnY0nvg+yTfl944r8SEipgIrW/9ShlX621aEW+yj+/OovEXLl5l7nXNIVgeUY/adGHTT7pJLrB+YikTFQOsckCN6Kbyu2B0WzKiC3bWERahnkTsTC3+36PEmihc85RZe3LMV87wixa6Z83jrtYl6o",
         "type": "CLEARKEY",
         "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0JxXAm4f7G2zhft+qFMWzfcKqIChT2SWg5apyqypsZWJDRRlAc2mFlFyOjBuolJGcdZ41bFJoN0V155kWYwO+F2V1YVMwI9IzhjHTwnk4o/FrZT7xXKicWL9nJI9YLpan0=",
-        "icono": "https://www.telsur.cl/documents/862366/16405274/espn2x-100.jpg/a92e8b5f-b769-05d9-0c62-5c89ebc1fd10?t=1773413706955",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpG4drs2fckAXXXgoXiv29ojwlTwN-NinGsA&s",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
