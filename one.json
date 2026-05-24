@@ -4,15 +4,10 @@
     "samples": [
       {
         "name": "EVENTO 1",
-        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDbEeoGeXsjB32zNRQjBAtoHJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxd6g4GjHfmQ3uPW6V5Wy+aA=",
+        "url": "G2FVY+j/1AdFixIJA1Xpn3VfjNdITj4Db5w4Enu+eZqaB8s4VlqC3ms8LSABkFhX9gGMPXfWSABrTfGgcA5k9xVge3IinXUtjTpHXX0wuzZTT3huQk/jDErWQhHoJbgJ",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2j+S6s3eeOFbPzg++rgoVBMKGVM8tBpXr6Z5JMmh4FGJwBJzoRLna5XtIHkQUV9tXFIgR+mYudpb+jnDXng1THE4MGp+g2/PpPeSULS9n6V+qDjCo+7q2UdcHt0AsqiGFqTsAEH4f2O5IVhkYNInKdo=",
-        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
-        }
+        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
       },
       {
         "name": "EVENTO 2",
