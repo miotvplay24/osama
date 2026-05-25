@@ -4,7 +4,7 @@
     "samples": [
       {
         "name": "EVENTO 1",
-        "url": "4Ac/TQQNYjWfarkwJreo6b/P3AOe0mfL8lt+wyF06LZbMg7wkSCL/wDz3z/K08KDzox3YRnRutd2DTAlcxtdsmhlqi+lc9DoMh+YkW8ZcD+YhxcEFILS9UQvs/12VLl7npT73CSIuEAdylJUYIV2PgJ4eIbc9ZH8924TLSlTRwM=",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDtZ5OU2b6/j6Hmt8AkEfkCxJtUeS/oj3xsXDimm9f/g6I2+JM62e/sR4aHFz/RoBny9llsMnpZVDf6k7Wu5w5zvhjcGNt+iqZLlWl5EKGmC8=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2j+S6s3eeOFbPzg++rgoVBMKGVM8tBpXr6Z5JMmh4FGJwBJzoRLna5XtIHkQUV9tXFIgR+mYudpb+jnDXng1THE4MGp+g2/PpPeSULS9n6V+qDjCo+7q2UdcHt0AsqiGFqTsAEH4f2O5IVhkYNInKdo=",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
@@ -35,19 +35,19 @@
       },
       {
         "name": "EVENTO 4",
-        "url": "SuHAh5IuIX5EpX/dAykZ4FAIX9pVJ7ikkIpfQL/mJTULp/yA5OJ/mj4i/uimgoMb1Rj/ZK+m3p8gcqF5GZgiOFU+nE25D/Z96c4LHylr6Hx1hOZFnUswPEYyPfcyH+Ks7DW0qEOBAyPZmmPYKMyTDNCNsXXyTE0AtmaQ+DKR3uHm6TKxn0f2i0cAqNkcNj6VIioTouX7OgOYzkhOGvEjsA==",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KD48tPvw+3G4x6y5/e/kxBJnJowXd/HT3PlMqVf/t1elxY68sG9gTA3UD0bqjvU2DbjyDVS5CBbZ+xCfG++BBCww==",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
         "headers": {
-          "Origin": "https://streamtp-abc.net",
-          "Referer": "https://streamtp-abc.net/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
         "name": "EVENTO 5",
-        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDqpAzD2Qe9HzXYOX/hdDCFHJowXd/HT3PlMqVf/t1elxO72q2yx+RtgaBOCzy+puwUW+r7d+s4LGFQ8knHZgudGEXp7xGg8TFD88RAQLxKgQf4vqAu5ZDY/Z/oCwfd9rkaX+iejTrSG8Bwt3b5gupxVAFK8BD6hkeZ/Gz+t+1BPXj6qFAt0NU8TKq7h5Ox67FfbdDcg1/Bpr7DB39R06nTg==",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KD48tPvw+3G4x6y5/e/kxBJnJowXd/HT3PlMqVf/t1elxY68sG9gTA3UD0bqjvU2DbjyDVS5CBbZ+xCfG++BBCww==",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
