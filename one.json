@@ -11,15 +11,9 @@
       },
       {
         "name": "EVENTO 2",
-        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIAahzmgafiIJGljBKiZsmtdRc8agW5Z88+pdzFOmTFgnuWE8dOZMO2ODrnWNUpqM57X4WI1VMujzllKdKzGNnOPDUvqSl3CDGTkUiJylLkwLJi7R1NYgLy72kJ0F+G68PRdFWK/3bxqjVyB8Mb+ABQB",
-        "type": "WIDEVINE",
-        "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0IWYMZT4zKryC6rd7KQT9xrpao84LPhNj9TX9gUGG71GUiYOjQEq4GwS2nJWYRaCx6+sLM1xs2ZO/io9kdHDeOsU+Wo0OsW9/xKZSN5KnssU7ZT7xXKicWL9nJI9YLpan0=",
-        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
-        "headers": {
-          "Origin": "https://www.tigosports.com.py",
-          "Referer": "https://www.tigosports.com.py/",
-          "User-Agent": "FireFox"
-        }
+        "url": "iisomCHxwwK1fxeV9KqQTdXxDG/2wm52a/b5IPf1ZuGtPZp+IeeoSWIU+fxdCgpezNUE+ceCwOZqsikYcxjLhQ==",
+        "type": "HLS",
+        "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png"
       },
       {
         "name": "EVENTO 3",
