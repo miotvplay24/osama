@@ -17,7 +17,7 @@
       },
       {
         "name": "EVENTO 3",
-        "url": "G2FVY+j/1AdFixIJA1Xpn3VfjNdITj4Db5w4Enu+eZqaB8s4VlqC3ms8LSABkFhX9gGMPXfWSABrTfGgcA5k9xVge3IinXUtjTpHXX0wuzamkubDQmVyfpsbDbQoQ7Ay",
+        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIA3pXYK9HXEXMnmKVYAeVDHJ5/e/oDqtSLHSF/k/QamEzxl3teXkud9yGf2RMK8pcpH07o4xXsLkEwn/OZs3M1WnpT73CSIuEAdylJUYIV2PgJ4eIbc9ZH8924TLSlTRwM=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2v3qpIkljmse1kdfByZdiDpN1DWDB3xUA+Tq3S96bLQ91JeUXYSoHuUc8a9bbmf1/0itYGFw+mp6NCsGKYvN5qQ3ULJ2soKPj5KRWunwaaLWP8sNM6G5jvhOHCqiN1+lBbZT7xXKicWL9nJI9YLpan0=",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -29,7 +29,7 @@
       },
       {
         "name": "EVENTO 4",
-        "url": "4Ac/TQQNYjWfarkwJreo6TTfoTcw4o4IA1anvdjTFhpbMg7wkSCL/wDz3z/K08KD0zAYKUlK9E9R4HKQjzye7Ghlqi+lc9DoMh+YkW8ZcD+YhxcEFILS9UQvs/12VLl7npT73CSIuEAdylJUYIV2PgJ4eIbc9ZH8924TLSlTRwM=",
+        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIA3pXYK9HXEXMnmKVYAeVDHJ5/e/oDqtSLHSF/k/QamEwmgWcGF7SzmnINZpFxzp/kRo0kEVYpeLaOJ+nCmLheMOTmeJ5wMlgQ9msxJt50JwPVUcZsx3Ri//7/KF35fLsA=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -104,18 +104,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "x-flow-origin": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TELEFUTURO OP 2",
-        "url": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCYxrwU9cbEKoRFQVvbyt/VaIu2W4fL50GjHi3kcoL084rFKfljxg80yqOTh8Jili1yIoo5CwDxrzuw28ZcLgjJ",
-        "type": "CLEARKEY",
-        "drm_license_uri": "V6vw/HJGGqO+FOopju27/0Ev1Sfh8AXS7wSBCnht7MAkuiZxZAeSuzmjB66oDcOr06xTOvWg08jO45lcH/BBzRpFgA+CoiBXJNaOpW1LQFYzs43VJubY++V7Zz3x/uPoGGosiJjanu5Vrff4jZWIIw==",
-        "icono": "https://iptvstudio.pages.dev/logos/paraguay/telefuturo.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
       },
       {
