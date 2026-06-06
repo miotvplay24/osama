@@ -107,6 +107,18 @@
         }
       },
       {
+        "name": "TELEFUTURO OP 2",
+        "url": "+mT08g6rT8a7nKN+039JpvsbEIAePXi9LEr/xINF8pCYxrwU9cbEKoRFQVvbyt/VaIu2W4fL50GjHi3kcoL084rFKfljxg80yqOTh8Jili1yIoo5CwDxrzuw28ZcLgjJ",
+        "type": "CLEARKEY",
+        "drm_license_uri": "V6vw/HJGGqO+FOopju27/0Ev1Sfh8AXS7wSBCnht7MAkuiZxZAeSuzmjB66oDcOr06xTOvWg08jO45lcH/BBzRpFgA+CoiBXJNaOpW1LQFYzs43VJubY++V7Zz3x/uPoGGosiJjanu5Vrff4jZWIIw==",
+        "icono": "https://iptvstudio.pages.dev/logos/paraguay/telefuturo.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "SNT ",
         "url": "WJV8bqurAK7+F3RgM8JvgtmVfy9a+QqHaerjO1byIzHby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYT5mv3xNo6LLIOuz/CpBS7QaVTrJGsXWq6lbmxFNKVSLlt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y7dR3cPwy6SGmvud1CWWneFrMKyVrSzzG2Iw0qnKXCpI/9nn6qQ7vjabkH4rz1+VqFvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMpb3dO76iK1o6BW77MlrfdQG7M+MN2atYrDc0oWAm3sHYxTc4qSAcrNEEuCiN64EOB2qOLLt5XufrZ8c2p7rLTQ4k7cMiOo73g1Wlr6N//piTGc4bRomLPI+v98IS7l3eppgVrngVi+oGX7PgBQtCJI6gPVdFCjcRLSlCGR970036p8pwM6Ww7gWp8UTAgcIR+lcOMvHRhBdj77GX7TbRurToislNUN4+Q0I20C70kE88tr3ERFyXBMj/z6rbFmKfi/p3AbVNqCQgOUMy8wFWrQDeVQX3MHYhS3L403xZmi7iy8y1GUbdl+YPtxKa4ui7X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaufeMoJ+23NhJT8eU5mSYNk1Vxb/7Qgp+4RnRDKn2mpO8aqjqMRheVmevI2encmDaNN19pONxJkxpUWXLAqdKCJi46VddPGh2ENiwQGfF5KJKHx3vhJ6/oIr3cSP4zgH5rfelspZ5fdnZcD4w8Xpr4B/wi192C4FzH8KLQ2Blx2/EFxxVUAZh3DDhRwywbCUK5jAsR74LPZI/ZbPAhOPTfYcPmXHPKGKjQtysfQ3fN0fLApzNAUNUpaDlludDeoEwgJ4eIbc9ZH8924TLSlTRwM=",
         "type": "CLEARKEY",
