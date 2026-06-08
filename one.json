@@ -41,13 +41,13 @@
       },
       {
         "name": "EVENTO 5",
-        "url": "CXzf2Ne9n9ChKhX8J9YVkvKGlUpT9QUg2CBrragCcc9CUPGgUbF3DzC9QcjN4nGK6KXTqm+yy0N9jCHGfOwfhbZT7xXKicWL9nJI9YLpan0=",
+        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIA3pXYK9HXEXMnmKVYAeVDHJ5/e/oDqtSLHSF/k/QamEzxl3teXkud9yGf2RMK8pcpgYD/4mzwPut4j2TM8W28VnpT73CSIuEAdylJUYIV2PgJ4eIbc9ZH8924TLSlTRwM=",
         "type": "CLEARKEY",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2v3qpIkljmse1kdfByZdiDpN1DWDB3xUA+Tq3S96bLQ91JeUXYSoHuUc8a9bbmf1/0itYGFw+mp6NCsGKYvN5qQ3ULJ2soKPj5KRWunwaaLWP8sNM6G5jvhOHCqiN1+lBbZT7xXKicWL9nJI9YLpan0=",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
         "headers": {
-          "Origin": "https://gabito.site",
-          "Referer": "https://gabito.site/",
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
           "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
