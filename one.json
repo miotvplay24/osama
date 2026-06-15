@@ -79,7 +79,7 @@
         "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
         "name": "GEN TV OP2",
         "type": "HLS",
-        "url": "lDg4zH0taQzbjcJ6t61gFptF85PwzWEZgKcV1xib6GuV1jykKmofq2ueuUABR5kzuBdd2vGHCMORz6xXxpsEWq21o4akciXAFGL12CStjnWxp4NUxOQ98kuBqUNNLGly"
+        "url": "W/EgRMjk+FlIh5vdYhSbKivKTGmqeXDk05CyENIgJrsVA2JZ3IVNq8P7VnPocRhuohIUx3eDnunWcPBHuK7SCOLiT6j+bL19FI7eHB1cMmIW+4/bousATMfVTNm/4IjZ"
       },
       {
         "name": "TRECE ",
@@ -98,7 +98,7 @@
         "name": "POPU TV HD",
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgQYbYdGQ/KUMNu+lEBPDWjk/JYkKtv8wmnuIIvtrKjw5gpvCMvEXg7qjui77fQaHK",
         "type": "CLEARKEY",
-        "drm_license_uri": "V6vw/HJGGqO+FOopju27/0Ev1Sfh8AXS7wSBCnht7MDzsqTk5jxXDdTTyAIpgtP93GcYWa9qeA3+xbk2pdfKD4+RaiBNp6IcWRHhjP1rs8CCRzXCPw+QdlfMdLKIfMOUBc9qFYTTUUilfuxNE0dK/w==",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvyFO7dgmGgx9MR36bS8sC3pC9AhnXJEMLvLGZ76e95J4Z9vjzyi7VtcfQckIdWc0Y6Pza/Gz1vw7uvgZaAZzOr4UECcsO6ynfsyY/1EzNQ6fg==",
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/POPUTV/EXPORTACION_WEB/SS/POPUTV_t-290x163.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -112,6 +112,19 @@
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYsuu1n9Wn78jtHmBK0gBbo/JvYzYpmFJqWx4VJOylwi6/qECr+K4BW79KjLB3l+dZ5M0SxoeK+FBIY1iI+qwjl",
         "type": "CLEARKEY",
         "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+5yS0EvCkaiNX3fyGLwlbkM6DIpf+RzkCEjW5mqRq8WHA928vbuy1SOyMQxDMjArvxNizFysDOz7GyPTrJNf2I9TbqaCaUka0jD/HJ6SLYhFwFP+9QU5+dZxneuC2KHdFtA==",
+        "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "TELEMUNDO TEST",
+        "url": "GNHUVyt0kmLdTFElfVfph91s9HlWIKXbCMWWGMkBEHjr7IoRSb2NN2pXL/tTDa7629YdSfGQC2LMys61dqhodsNlxqFUk2/ii33h8PMAxWBVlrijcDqyY84JbauCIeKgtlPvFcqJxYv2ckj1gulqfQ==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+56lb90ajRkxUrv91rOC0MlN94ZAIJUVTozPVyhLgI5lRj1o10QBHM2bMgZLrnEaOGloPFL86TeRX7BiYVSjKPlqRuYBlnxs79VjFq61K12LSf4xmYXMT00aroCIhO2gMLg==",
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -238,7 +251,7 @@
         "name": "LA TELE",
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYsuu1n9Wn78jtHmBK0gBboIZwZ01w9iLlUYt4jZ33VoEbPtd/MlzcxDlRdA0nXhbJYukU55EdjLNNcOVLj/Ovr",
         "type": "CLEARKEY",
-        "drm_license_uri": "Di8ngPZ+gH6MhZHVzc689igkT1JKgI9oqiDYPWkoEp9wv+8QnVSPxr69elIYl4fFQfo69jdU2Hs+vratOGp+50RMG1ZLciGPdflH9ZnIl3iLXQX+YqGsmb6q9Jz7Nb8Pf+4Y3rz835j6x1kkzOu2b6LujLWXyFh5mHc3GLobj7YXkeSAuh/aVYw0NwMfDahfFP+9QU5+dZxneuC2KHdFtA==",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwK+/IeeP/+7sjapGvOfLYACJ6t+VrA3eRp+xlVUlc9zUjEq7Hht7ZnljPUKoT30UcWhjpbFSL1/P3mydURHhI+hvZ0oNe+9rN5oZML9RbK2w==",
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELEPY/EXPORTACION_WEB/SS/LATELEPY_t-290x163.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
@@ -264,7 +277,7 @@
         "name": "POPU TV HD",
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englbHmjCJW6AKQPWDtv5Uv6UOBtDUS6ib0vWweVALxQJBH0Zf0a+yeWQWQGfnqq3CwHYhUyyWsluOyCk3t/pUQL8O",
         "type": "CLEARKEY",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2taN7VtUxmQxJyNBHk2JANKMjOqt0zA3wocgk9f/23laUTBpXdkfdqiJfd9a/uSEH+ObIQpRfo/fQwH6R31tKPgIdi36PeUSK9BIMXjH5QFV2FyG6Op5ZFAYxFnr2TNWYSM7HNcOeMev2Hw6by7Vnus=",
+        "drm_license_uri": "V6vw/HJGGqO+FOopju27/0Ev1Sfh8AXS7wSBCnht7MDzsqTk5jxXDdTTyAIpgtP93GcYWa9qeA3+xbk2pdfKD4+RaiBNp6IcWRHhjP1rs8CCRzXCPw+QdlfMdLKIfMOUBc9qFYTTUUilfuxNE0dK/w==",
         "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/POPUTV/EXPORTACION_WEB/SS/POPUTV_t-290x163.png",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
