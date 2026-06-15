@@ -108,6 +108,19 @@
         }
       },
       {
+        "name": "VERSUS HD",
+        "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgQYbYdGQ/KUMNu+lEBPDWjk/JYkKtv8wmnuIIvtrKjw5gpvCMvEXg7qjui77fQaHK",
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvxenotBG6cRBGgZpuLOk9+whOGme5Tmv5Q/NF8dBr6kKTAofUXGHUT0A4hQjNoZwWxNI4FyklRg/R1zJBQ1G6yEudSH87CyXuf6fO0TbrHF/Q==",
+        "icono": "https://cdn.bo.flow.com.ar/images/content/60/40/OTU91eSkCTK9NxJxK6EAhA?tags=CH_LOGO",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "UNICANAL",
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYsuu1n9Wn78jtHmBK0gBbo/JvYzYpmFJqWx4VJOylwi6/qECr+K4BW79KjLB3l+dZ5M0SxoeK+FBIY1iI+qwjl",
         "type": "CLEARKEY",
