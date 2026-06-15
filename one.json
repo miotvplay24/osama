@@ -63,6 +63,45 @@
     "name": "EVENTOS MUNDIAL ⚽️📺",
     "samples": [
       {
+        "name": "CAM 1  ",
+        "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgnFhIWXej+80HF/hGMHQVpBp8zGI9JcDzSt+Fu5wD5ToNG5I5wQ4l85EkqrGT8fjV",
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwv/qJ9O0kS0Ys9M3A5n6hVbp5y8uy0rzeOiNXfO6X0kfLnEDy55d7z36Jkt/6EMIn3AVhvm0K36/aJjo605BVzjuNCL0S+RcmDA3CN4GEdhw==",
+        "icono": "https://i.ibb.co/dJ7X0RcW/mundial.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "CAM 2",
+        "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgHEldUtqLLRwvqcb3GyRIVxp8zGI9JcDzSt+Fu5wD5Tp2wIwR8KKmM023rfjySE1X",
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwFtsQ+qRfT3H4uWXVi1qLyhiOxg527/Sj+dQwJVw+0TewMfUKmAsm5tQWkjqGWVlD0p9UkZtLLY53/C+JRx3QAhG9FkmNxRvqNswBIQh65Ng==",
+        "icono": "https://i.ibb.co/dJ7X0RcW/mundial.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "MULTICAM",
+        "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgDTAWlP+LdLJOqBNTMMW9N6mqeFhtmqMB9sjrC3SPtoRgmgJ5gD6gbTh07WzZC9ql",
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvzca2mRtUsTzlquHdYbrynzZexK4CVSTjcLA7WFjjSFOxRJarivzIqy+9LIKLsbZBcKwIcn4F5ac6/KoxB0zAhoE9+guiODO+CB+H+wqoxMBw==",
+        "icono": "https://i.ibb.co/dJ7X0RcW/mundial.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "GEN TV  ",
         "url": "Ocx+aGfr4Zduykjge4wAylbT29jahnMHS1781HpllpZr3EvVNe4VkhHxCXOMhueJ7jsim+ek+LeNuBwYBbFJPQC0ryrasUsK3WfKSIc6BLC5oYxZqfeD9Sf6oDKCzHrarnuhX8uuB5+/Wjo4nhVs/e5aa7qGXge0cXx4yLhiUibZBEMebp7mYgJlszYJU6E6Qi7p0DXuDHbRTazT+xmvH4qk/W4jASEiZ5c8EI1KBIpUKj1Hdua3WXtkTgFcongxfivg2lkqfvAbYNQre29CcueT4wvXF39IjPXgAnFM6FzTEIW/JFz8MnVKmow/8AsYYLRnVXAzW5JlCAxGLcY86NYEqr6HR+oTQphe5RvowGETH3sE5TZPIP6YOQyUNslte1vcgiV91Mn44Vi8R/lfzpQGoJFK5i3FxK6REkIb+8lcG9jdZPPkXI74ya0SiThTaVivYBNQRLdBhmX240wQ1tPXNKNlpB4qaLLX060GaaZ9dS30JHaNXbsikdHht19+Q1hrMYKP7ZJUlpfgb9/hpcGD2hLFef6PW4lkmuiauiMjosAYBwRp0DoBDj1j53UlBjRO/6O10vhYKR5S5DondnT+1i7JmDryLjKD4oWP82S6Kciag5JhIVtu1k92a81AG7lUtclkaRomFfUG0c6XfHYy+7HGC/RnWQLgu8YgFnqacLhjutPTc7tPbX4ETnh5HKMD+tUTyo86i4sfVztbiNnX6TYYPUGrdrINRb8rFJatJTqAwPiM+OGyz/3nc4UUi+V1nGFJxH/wx7pI8daF7krHNq+GWByVQXZrdhOPS2MYAUBNzeu3Tt68NKmM2UUC3t4vfrKjmd+vgSYiGxjM/ElyZWAd4WM+0bKymCoLNnZy8gH7zl2URqzxJ+sqDEhK2n1V7PMMh14YFxizf06xU4QpR3hcy+Ta7HdXw+englYaaIH4D8oApIlPjk2b4kbgzZRDG02X2OYJTwujE73t8fTrCBCs+zGH4z4H3Db8hAwscVbFiY9uO5+pFiwOYb6R",
         "type": "CLEARKEY",
