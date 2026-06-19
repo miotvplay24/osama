@@ -2132,6 +2132,12 @@
         "url": "Hr0oBAck7E5MnFANX7mxRGfBV1IiUNpwOFD3SPH1xpd7CQlfgi7lQDSueuAqFV8W8672zUVOVkRGs2kW7J43HQTVohNJP8xH0NV/ZUYsZ7taGSKA8n3WiDolhxSOKB4skpwAfW5KziJS6viY0uZO5aYbvWTtYTRxAHEWMJF29PkTMKmpZaHZmH3JIqmKJ4TrodQEBwnqoPOB0FXmW6MRy7gNPjgu3XKyBJlL2e2F/U4="
       },
       {
+        "name": "TUDN SPORTS",
+        "url": "685Ee0Ak877pM/X6MJtGhtvYch2OzIifBra3ck72kvdA9/QnMw3P6LXsdxuA/QxqBfTJGNSICZey8JHaRmcH7w==",
+        "type": "HLS",
+        "icono": "https://i.postimg.cc/TYHrVXBx/download-2026-03-12T134729-824.jpg"
+      },
+      {
         "icono": "https://i.ibb.co/m4m56ZM/co-nba-tv-hd-m.png",
         "name": "NBA TV HD",
         "url": "Px1CTDUv/pxQ5rEFiwYXtOJInOy/Ep1123+K73BZeB7by2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkZgtNzeud1uiheDoXOgt8zsHwXj6Uc89IP3bzyA/4plnCMh9LkZClXwUbcRWP3D70eIolKwrBxrfYBCN7zZTptmdR3cPwy6SGmvud1CWWneFrMKyVrSzzG2Iw0qnKXCpI/9nn6qQ7vjabkH4rz1+VqFvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpP+FUbhz1tuN7BJ3yT1jg1qLge4la8LeBofBDB5F05vPnYxTc4qSAcrNEEuCiN64EO87lXG464JoIuWWCu2+rgELLD7uo1b2HJIkEnZmzrIPbIlCkIk1I49E+/FTPpl308Prsct/0UqlH7GrJ0xRmBGUOamEN/Ko/R+yU1BoO062X6p8pwM6Ww7gWp8UTAgcIR+lcOMvHRhBdj77GX7TbRuXP1GC+N2I0sXkWjl4aQggJw2QzvQHA1DEAxqMywC8IladqJ6uCPlMKWfCtVSdIZ5yhEHB96gVdgBO7YshowxH5iQoyLXbUtWIe7ev9X7PfTYtDfFeiTh1FjVHRUkJfh539vxqfJHgWqDflgDmq/ZKdkzabK+QMAi0XzjnxyF5tmcnTG/VdcKn2KsD9iikurl3V2xUmlwYJnOIEoWwrQUVs2NUGbxK/maPdGBG2pwqdblGFrqRGFYOIPAdwTHP3ONH1vOwvbWYMQa5LhUOC1JR+fgVhjEhI7Iut2U0UF3m4epCitydc9i7oUwzA/A9XxubSXt6Nm43whoJjpeE4x4MLHlP/OOZRdeFHLBGwnqqAfQmsrZUpweHMyt+JqPAjxyMEyi2nsPg6gLCbsPYkdFy1L7Q45X5PunCzBhxa4Hv0MxU0+ctyk8Iq3uT4g/Ev6O76wrxgouSMrvkP3PSUZhdkozFQBjoBH+Ligdo33/GjbXgNJOkIVpv+zSm4QNJ1F1BDSZsBMpf+dCa54XfUzXCg==",
@@ -2170,76 +2176,6 @@
         "url": "mx3mA2urPwSwZrk7iUSaNiqDTBKq0pbv37AEV2/LxNI9FvsJkOiYoFHXuO9dOUpW",
         "icono": "https://i.ibb.co/RGy1cnLP/directv-sports2.png",
         "type": "HLS"
-      }
-    ]
-  },
-  {
-    "name": "⚽ DEPORTES VARIADOS",
-    "samples": [
-      {
-        "name": "SKY SPORTS LA LIGA",
-        "url": "FAOb0z9ldUtEENGZbQI8KmoGcbHgnqHuxtbUdIXBZAvKaNJXng8v1c4K5vPON9UuCpGBjWeVqhPpORXh7R+9Dr3G3DSoG5eNPdQZkw/B9yoQgYB83hvyKUlKv97Tj72xfVDPfKj8UyyBpug+YawBgTCfLaZ7HfxInn8T7h5i1RlSfNVE9rg3MMJsOoVa5nft0VG+Bcmmz36++Md5F97oPUrfdrfD72Cq7kWUPgcMML4=",
-        "icono": "https://i.postimg.cc/Z509vbWB/download-2026-02-22T172433-675.jpg",
-        "type": "HLS",
-        "headers": {
-          "X-App": "ps",
-          "X-Version": "8/4.0.7",
-          "X-Hash": "2SGHq_KKGkMTzLV4ogALH5JGqDQRiyP2XHXHK0GzPautj5eYx6DkHeQ7JH0mtZr-mF9uArYh5vZr7k7UyF2CyoGWie6wI7vgZSIuvCf3aG5v9DBBUuPp0gRokg-GD2MSRc0PAc2NNg4OZO5RL_y-WPwaexovHL7QaIXX9q_zuykpe9pnTOSA5F9_Fz1j4ehKr92N1z7SQDiCm7KLohI6jL6QFAwjQgBhBIrO3StJf402KOmjR1kTc5a2MQk-gC7Xm6SvaS_nfm87p2XRFzQW-BfTXgbpBvjtHhHaIUrc3SM69gJak1hgCkpZdIxdfV85u5y2wJngTNiAonHW3cIdc2ii6_htBfkcmVwuz2lmrJHdViqW80PxCrxMBg4W3XH9VYBezy3vPXsjFFhGuA6aJ7eyr8TsCRuz3UUyTgGac4g89uQ10raav9QJsekIox-a327KARFvKvbCousW599rVLTOC9PQCPRZmyDhJD7xnF3OPu6RKaRVm4HcXkjg1UGr",
-          "X-Did": "cc849782e436048f",
-          "User-Agent": "PLPro/8",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "BEINS SPORTS Ñ 1⚽",
-        "url": "+IJh1Q+UDaDTrbHo+/8qpnF8lo35Qgz1C1RyYXMT2spf2oRtkz7378Gp1bBkK9T8xho+qUNp0syiMsM64qL0oA==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwAHdnjuhLflZBsSavU6ZDKblctWs+oybADWaJD9xryoY6mumb7+TAMzNCFrLyy3YA/yXr/lqzNbfyNj5MhgZvOk9EBU3bH8B+R4cUcXNscDg==",
-        "icono": "https://i.postimg.cc/JzqYLSGH/download-(45).png"
-      },
-      {
-        "name": "BEINS SPORTS Ñ 2⚽",
-        "url": "cJf1aYL3Hbo3+3sFLJmG2s1DCH4W2gTZWzIdc6WXiESQJDn8MGThRfj3MFnXU6gm",
-        "icono": "https://i.postimg.cc/JzqYLSGH/download-(45).png",
-        "type": "HLS",
-        "headers": {
-          "User-Agent": "MdHtVBR8NUmx22vgP29hCQiA4AUCLwet68v247X2QZpf3m6SBjRCkcCjxyythUUEdzF6gMUHb91aWbPRcfWaCwEpQjMrv0yBvbLCdXD4uWmPy8n2eq2DBEq3046eaH2 ",
-          "Accept-Encoding": "gzip",
-          "Connection": "Keep-Alive"
-        }
-      },
-      {
-        "name": "BEIN SPORTS EXTRA Ñ",
-        "url": "jMcu9+qEIPniZ+FcrdcwMmzkqi3hoRwewuzCObSuKedfZ+Ib2OKXBmGpcec0DhYXNTfaxYebh/z+nZPaEiuMxQ==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2s77afc3l61AilWBeY6rNee27bhAtZsbwIGEYQwsWTdFDt8ojJ2U3lz46ItQzEKMac1FxFwTqIw8p11nk+opCBh0TcKlbtKWn6rmm3kLr8qBYS3XoFcFzScEQKqRSjf4onRZsmI71/bdJxNCZykYY7A=",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-      },
-      {
-        "name": "BEIN SPORTS EXTRA Ñ OPC 2",
-        "url": "jMcu9+qEIPniZ+FcrdcwMmzkqi3hoRwewuzCObSuKedfZ+Ib2OKXBmGpcec0DhYXNTfaxYebh/z+nZPaEiuMxQ==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2s77afc3l61AilWBeY6rNee27bhAtZsbwIGEYQwsWTdFDt8ojJ2U3lz46ItQzEKMac1FxFwTqIw8p11nk+opCBh0TcKlbtKWn6rmm3kLr8qBYS3XoFcFzScEQKqRSjf4onRZsmI71/bdJxNCZykYY7A=",
-        "icono": "https://i.postimg.cc/MHsyq36G/descarga-6.jpg"
-      },
-      {
-        "name": "TUDN SPORTS",
-        "url": "685Ee0Ak877pM/X6MJtGhtvYch2OzIifBra3ck72kvdA9/QnMw3P6LXsdxuA/QxqBfTJGNSICZey8JHaRmcH7w==",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/TYHrVXBx/download-2026-03-12T134729-824.jpg"
-      },
-      {
-        "name": "WIN SPORTS",
-        "url": "np5FNzga33XfQEYPaOji6RKcnsiBuWQzle9o3pgmXJxkEc/oO84iojmNTYmph8L+",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/SDX3WH6k/Win-Sports2018.png"
-      },
-      {
-        "name": "RALLY TV",
-        "url": "l1ykY+lQO4Rrc2al4p5HVpAy9q+KnM1otKOJaevMn2eRlQ0cQPy8zntYwUSAynqMjla0atV2JFEqB78Q5QId1lrdTmT3RLTFiC1w6KY6NhEhXua/674T+5XAsiBXkaJ20UDntcjoaOjjTzpf5NNRVU1VlcDX05a4TtLN5roJkJG2U+8VyonFi/ZySPWC6Wp9",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/MT0jPRQF/IMG-20250731-WA0159.jpg"
       }
     ]
   },
