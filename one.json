@@ -17,7 +17,7 @@
       },
       {
         "name": "EVENTO 3",
-        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIA3pXYK9HXEXMnmKVYAeVDHokgISXxZDiQk7XmU2ewHcgmgWcGF7SzmnINZpFxzp/kRo0kEVYpeLaOJ+nCmLheMOTmeJ5wMlgQ9msxJt50JwPVUcZsx3Ri//7/KF35fLsA=",
+        "url": "moVcfV+cFzaB6TpPCviMHQV4tfD9vi5XyBMOCV1xnIA3pXYK9HXEXMnmKVYAeVDHaYMscnvCwtvdEch6HEmi8gmgWcGF7SzmnINZpFxzp/kRo0kEVYpeLaOJ+nCmLheMOTmeJ5wMlgQ9msxJt50JwPVUcZsx3Ri//7/KF35fLsA=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2v3qpIkljmse1kdfByZdiDpN1DWDB3xUA+Tq3S96bLQ91JeUXYSoHuUc8a9bbmf1/0itYGFw+mp6NCsGKYvN5qQ3ULJ2soKPj5KRWunwaaLWP8sNM6G5jvhOHCqiN1+lBbZT7xXKicWL9nJI9YLpan0=",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -29,7 +29,7 @@
       },
       {
         "name": "EVENTO 4",
-        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDFsxxxvsRd+n+f9n2EEnR6HJowXd/HT3PlMqVf/t1elxMQIr9+B5MGvSLIH+3QDrcjyDVS5CBbZ+xCfG++BBCww==",
+        "url": "4Ac/TQQNYjWfarkwJreo6f9XqXW0TVFYkk849bMzdqhbMg7wkSCL/wDz3z/K08KDsYNSRewDYv9YjhUVpqmy8mhlqi+lc9DoMh+YkW8ZcD+YhxcEFILS9UQvs/12VLl7npT73CSIuEAdylJUYIV2PgJ4eIbc9ZH8924TLSlTRwM=",
         "type": "CLEARKEY",
         "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jPjOYRuBVW+Y992uYYi4iX9/XhISfL0ZCUGSaolq0gYa7rJG0Kz0Z3if1O4xJUP5reMxj624j8P7U9GhT92X5Z8YQxntPvERDkV+IQE18Z53szvh9nisriX0ozSjl3q4g==",
         "icono": "https://tigosports-content-py.tigocloud.net/uploads/LOGO_TS_AZ_Uy_AMA_2025_75289c028f.png",
@@ -115,12 +115,6 @@
         }
       },
       {
-        "icono": "https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png",
-        "name": "GEN TV OP2",
-        "type": "HLS",
-        "url": "7nhUtI0QUk46O3hWiSyFN4Aaei2D2jASKGd6rVpJo0ft+PzLyt9CvS1Y4n+PMxUgFP+9QU5+dZxneuC2KHdFtA=="
-      },
-      {
         "name": "TRECE ",
         "url": "WJV8bqurAK7+F3RgM8Jvgt8KIHPE75LxhEhb+pcFqMHby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkbyyx4fuv3rpHEAWOPIsX6k8MfXiHFpHW5l2fxlf2uqpVmRqv2zjVDUTWVE95z3a8rjkQ71TK/uplv0A/et069krknpg2ruKCFSX4p7/zGMma8qZmr7i27uLKIVpdW7rXGZzy468JlPR2gDjfVKZqzgZUkwS7jn3zZp9tpibPjsxwuHVMnAvmg4XBYgny9vlbt21ZN0S9GOHCi0L7rwbL4ZBBxa8dO6d7BtP1EkWRai+ic2qkvck6WOO2myYhsf60/P3EszIk1WiFFDV3Y40qtUF5griZX8p/HP/hnhLrJGabKKob46WA7+LU4MJhWar4aBjm6FwiXU+TQ4nO1o2nCRoe/vsmKJt1TSCy1D1RVbN6/+RV8pjC9WnF5a9FIhz5q8h1ub/20UHNQZN8++pkObDw18wa8WESPNjJJ3ng1lJWCy6nOSRZjVnBH4hkhJ8WVgibOoh0iKpoFjcVf3cBHtZholychOIuWx5AC4V0XdK5fJUfHR/VgmSU9bnqbZkHFzLC60aqTzqnkIdXCT4zejowLFhXH0Bu5E+MNvzWJ2liuRSwLoKBR31X8VUFibh4l3u9NLCd0wez0Io/BU9RIRnoQyuZc7nK06FLvmoY1BemQOznw6063YacgzGDV/qxVkEdlNYWk1RgaARJ7+9xPpZOVhi2wbp0KkhuECqMS+doE1StY9ROA53VOBtwtvCoNjQNwKO4sJ0COx1RrZ5fLrIenxw0QSVOHsl0Hp+qZQL1odhmIq2znmIU30Xxo0FmuHJJRF+v+n3FG+FKUbHa5VRHjUjLb/egXQh6jSRQbjV5dlqfzAXBTfpNmbg8ChlBhj8wxQRejWfQEEBlUbS7PjL+5ccBwXwsCoDHU+R+03nh7llnOMgonvxcK0pZ4kbxsWZPelNvX3y3tbGt5E/Mmx",
         "type": "CLEARKEY",
@@ -132,12 +126,6 @@
           "x-flow-origin": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "icono": "https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png",
-        "name": "TRECE OP2",
-        "type": "HLS",
-        "url": "bDkjpF3dDyOuPi4gtEdP2/t+fwkUNEjeQu8KGB7ep7VrTsnNIuiad6Ceye/u6YigRl8JFoj+EKxK/r39mtpJ7TwKdP9NY2KfzwDXw289rhVN8bVmGJno9du86Scd3SCkVknLwhAIYZgbhLqtMKBfzCiM1+U7h5iBy5pLXZ9mDJ0aVnEnuy2VNSpyiG4OCF7AD0VsdKCLyR81oP8XeINBOQUOaf/YwEJV900dbzYwuJ+utn7tX7cocScghHau/vwVfFrfv1dEo/S47qEkLP/9diP9MrIvuZNjQAmQ89TNoiERFnP1OjJEBnK/TdNucELB"
       },
       {
         "name": "POPU TV HD",
@@ -177,13 +165,6 @@
           "x-flow-origin": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "UNICANAL PY",
-        "url": "XimPfeMnuC/cERLHFv0TgbG/HQ1V0SWb77Z/FCvU4JEdBpsyHVAFhGxhFDTdIIY39/eLxArbnQP88cT39knfzES6DmSUZRit9D4uJej85lBexhvq78uusvXWRALKJj4k+SwhJ3Sowvq17F/tO9AF0zgGtUhabI65mJsYEzEgBfr84LGq/kVSxwJtq3ynya8f6hn2oVXfIiU0DdTIPHz2VHbEtf83KbFnVODmhjDZPfcsHrUHHvF2tkd/QZuqosbj432GuohW8Qs8KXahkJvExMC8Bxd22C3i4BnaUjqRruKl7vzXYSBQM38bmYZ+5c8gzOMkxhSaR82BC4oiDS64sA==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvwAHdnjuhLflZBsSavU6ZDKblctWs+oybADWaJD9xryoY6mumb7+TAMzNCFrLyy3YA/yXr/lqzNbfyNj5MhgZvOk9EBU3bH8B+R4cUcXNscDg==",
-        "icono": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/UNICANAL/EXPORTACION_WEB/SS/UNICANAL_t-290x163.png"
       }
     ]
   },
@@ -349,12 +330,6 @@
         "url": "ctn/YUSFHmwtA0HBvXig+NWVByoZCFBlxkR0zogEj+RIzNDtvs6+DqbPowfbKdhSwD2fs/oa6Ji6Eqv6S4zglEaB91kEFb3JfeLSvPB0fRo=",
         "type": "HLS",
         "icono": "https://yt3.googleusercontent.com/ytc/AIdro_kYdR_fFzQchVBzSyrHTVwhVLBj4J6cEh3vLCVlYx339gk=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "name": "105.5 Fm PARTY",
-        "url": "sj+PAqoaDIEIyGc4RXAiY43VHh3sFKtajkEDtZV0YQhXmwoNpG0GptZTdrWqmDFt",
-        "type": "HLS",
-        "icono": "https://i.postimg.cc/YSvmqMYv/Whats-App-Image-2026-03-11-at-15-34-31.jpg"
       },
       {
         "name": "TRECE ",
