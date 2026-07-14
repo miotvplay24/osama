@@ -2132,19 +2132,29 @@
     "samples": [
       {
         "name": "DIRECTV SPORTS",
-        "url": "j0C6Sd6CQ+pGclX+v9Ho769//oaeYWjioCK47NpNfLzw/mZBCP2MqhkB/MFiE3ZX",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
-      },
-      {
-        "name": "DIRECTV SPORTS OPC 2",
-        "url": "U6AjP5CdjOs7kNdaDgiux6r7vVJmoupQJdWLcV5gJPtNjh5avXRm7NPpM7rb19jm",
-        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png"
+        "url": "WJV8bqurAK7+F3RgM8Jvgt8KIHPE75LxhEhb+pcFqMHby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkbyyx4fuv3rpHEAWOPIsX6k8MfXiHFpHW5l2fxlf2uqpVmRqv2zjVDUTWVE95z3a8rjkQ71TK/uplv0A/et069krknpg2ruKCFSX4p7/zGMma8qZmr7i27uLKIVpdW7rXGZzy468JlPR2gDjfVKZqzgZUkwS7jn3zZp9tpibPjsxwuHVMnAvmg4XBYgny9vlbt21ZN0S9GOHCi0L7rwbL4ZBBxa8dO6d7BtP1EkWRai+ic2qkvck6WOO2myYhsf60/P3EszIk1WiFFDV3Y40qtUF5griZX8p/HP/hnhLrJGabKKob46WA7+LU4MJhWar4aBjm6FwiXU+TQ4nO1o2nCRoe/vsmKJt1TSCy1D1RVbN6/+RV8pjC9WnF5a9FIhz5q8h1ub/20UHNQZN8++pkObDw18wa8WESPNjJJ3ng1lJWCy6nOSRZjVnBH4hkhJ8WVgibOoh0iKpoFjcVf3cBHtZholychOIuWx5AC4V0XdK5fJUfHR/VgmSU9bnqbZkHFzLC60aqTzqnkIdXCT4zejowLFhXH0Bu5E+MNvzWJ2liuRSwLoKBR31X8VUFibh4l3u9NLCd0wez0Io/BU9RIRnoQyuZc7nK06FLvmoY1BemQOznw6063YacgzGDV/qxVkEdlNYWk1RgaARJ7+9xPpZOVhi2wbp0KkhuECqMS+doE1StY9ROA53VOBtwtvCoNjQNwKO4sJ0COx1RrZ5fLrIenxw0QSVOHsl0Hp+qZQL1odhmIq2znmIU30Xxo0FmuHJJRF+v+n3FG+FKUbHa5VRHjUjLb/egXQh6jSRQbjV5dlqfzAXBTfpNmbg8ChlBhj8wxQRejWfQEEBlUbS7Pj5jKJ6vmaE9y/ILYt1+rkiEOqiDHobkAx/lGbueIMszWDSsEQshQjdEtGFBzvrAWAtlPvFcqJxYv2ckj1gulqfQ==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvxf57FGPesIpyf47J5utZhcJgQ+OnAcQ+72escmxaGW/z2WbEoRl206LwlZAeidru38x9W6YU54yAildoxaFwYM31zhZcMyLYtnrss7y69lgg==",
+        "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "DIRECTV SPORTS 2",
-        "url": "mx3mA2urPwSwZrk7iUSaNlNjHCahuYXOMOJysiO63YGoxXhvrBJoVL2cPI2Cnd4W",
+        "url": "WJV8bqurAK7+F3RgM8Jvgt8KIHPE75LxhEhb+pcFqMHby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkbyyx4fuv3rpHEAWOPIsX6k8MfXiHFpHW5l2fxlf2uqpVmRqv2zjVDUTWVE95z3a8rjkQ71TK/uplv0A/et069krknpg2ruKCFSX4p7/zGMma8qZmr7i27uLKIVpdW7rXGZzy468JlPR2gDjfVKZqzgZUkwS7jn3zZp9tpibPjsxwuHVMnAvmg4XBYgny9vlbt21ZN0S9GOHCi0L7rwbL4ZBBxa8dO6d7BtP1EkWRai+ic2qkvck6WOO2myYhsf60/P3EszIk1WiFFDV3Y40qtUF5griZX8p/HP/hnhLrJGabKKob46WA7+LU4MJhWar4aBjm6FwiXU+TQ4nO1o2nCRoe/vsmKJt1TSCy1D1RVbN6/+RV8pjC9WnF5a9FIhz5q8h1ub/20UHNQZN8++pkObDw18wa8WESPNjJJ3ng1lJWCy6nOSRZjVnBH4hkhJ8WVgibOoh0iKpoFjcVf3cBHtZholychOIuWx5AC4V0XdK5fJUfHR/VgmSU9bnqbZkHFzLC60aqTzqnkIdXCT4zejowLFhXH0Bu5E+MNvzWJ2liuRSwLoKBR31X8VUFibh4l3u9NLCd0wez0Io/BU9RIRnoQyuZc7nK06FLvmoY1BemQOznw6063YacgzGDV/qxVkEdlNYWk1RgaARJ7+9xPpZOVhi2wbp0KkhuECqMS+doE1StY9ROA53VOBtwtvCoNjQNwKO4sJ0COx1RrZ5fLrIenxw0QSVOHsl0Hp+qZQL1odhmIq2znmIU30Xxo0FmuHJJRF+v+n3FG+FKUbHa5VRHjUjLb/egXQh6jSRQbjV5dlqfzAXBTfpNmbg8ChlBhj8wxQRejWfQEEBlUbS7PjD90B8uBn8L/bmu9aKGV3lUOqiDHobkAx/lGbueIMszX0XV8edxeFGjiBMqqt9LjGtlPvFcqJxYv2ckj1gulqfQ==",
         "icono": "https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png",
-        "type": "HLS"
+        "type": "CLEARKEY",
+        "drm_license_uri": "45peI7pfhQdhtOuTLAsnawL9nQKRnh7RD6LVTCzHpvxS+usvCM/8JZ7DEXIQt16x+f4hXzSCGhxGRAl2Zhyoqz7/BmbnbWK1t3dyEaFznq6wFHXl/j8Aw/fjeM76e9lt19S0bhEX23KjLCRxDYP0ag==",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.ar",
+          "Referer": "https://portal.app.flow.com.ar/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "DIRECTV SPORTS +",
