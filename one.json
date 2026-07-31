@@ -87,8 +87,20 @@
           "x-flow-origin": "https://portal.app.flow.com.ar",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
         }
+      },
+      {
+        "name": "TEST",
+        "url": "8GXuz/oI3KCm2D6YJn/rdyJ28k3IlhSMf0T4QCvkDHOm55FpsbI6Tw06BpvCBmMZhMelMKu/A3LhVSOgwCoI+Q==",
+        "type": "CLEARKEY",
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2jK1EJifowJvlWyaKAzfPB9ryh8XqK15lHk0k2cM1qYRVBHaQcP7vmjoyq4UiFXY3QmzuCdiSmR7GwctXekmQx18bcoZXjZYtbdsTjzcNYCg8MCItehsGl3humjUMfFxDT0B5wwXCIFlE24cBglSd8s=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbyA_j8kea0yf0CH529Q0Ye9PxxksrygP196QOMX7-ZQ&s",
+        "headers": {
+          "Origin": "https://streamtp99a.sbs",
+          "Referer": "https://streamtp99a.sbs/",
+          "x-flow-origin": "https://portal.app.flow.com.ar",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+        }
       }
-      
     ]
   },
   {
