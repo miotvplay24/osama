@@ -2224,325 +2224,419 @@
     ]
   },
   {
-    "name": "CINE Y SERIES 🎬",
+    "name": "CINE & SERIES 📺",
     "samples": [
       {
-        "name": "GOLDEN",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNYLlxoGR5U9DOOqj8k5ioWmQQXQf8cCQdaR5rm5XOB6w5PHe0dw/MX3/4WfH7fFlX/jgzBWRn0dY4sSUeSgOTvA",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/47/CH_LOGO/800/542/0/0/60951863073142.png",
+        "name": "CINEMAX HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbz5i1VhUBqRVoffb9GEMq3iNwFp4BnVIUeFJYXnwcIO/NBaZEffsDgNOtdMkMcI+k=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXbJgLIaqMLIAa/4mZUfo2xzcuQepe5UwGQDifDBIXEnQOUbsR7XJ2lDGvmX2OdDD8upLdTsNDoqJqOaTvjslmtgJM6Dbmzo4z75eImXSEdM0=",
-        "icono": "https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXTwUJuGBG8XfYTNibManUcxjVFKf4nPdgPZNUC5A95SGh4R215YRyW9pQF+37SbV97Zpdc/r9K/8LWqxfxwi/usEMQewv2jjacDRmEgXe5H0=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "WARNER CHANNEL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DBupjA/EMC3BK4PIVec7rftY4HeVWSnzufScTmY53EoZb7mpWsMuMaVYixTLZuc24sG7lCh0hb9Pt1TIA9u6/xTtlPvFcqJxYv2ckj1gulqfQ==",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/800/542/0/0/53485573073445.png",
+        "name": "CINECANAL HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+0EyLK52QCx6jPWWZh7us6jyn49fVwjl73/+L8bW5ZxiiJgLM8b7dyeHQrWlKipApc=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX4EnetAEeyd3Fp84qUvffH7KOcrYtl+OeO29+jwOMfdLBGaa0Yhg6uuqTx5cvNUvaULNBasxMiRNLP5tt2SjHAdBfHhcowQuODJtI9fLqtzA=",
-        "icono": "https://i.ibb.co/jyK3gPh/0000-all-l-warner-logo-warner-2018-blanco-1.png",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX94BmFvL0WoQCnsPVWoK7wMfnDAzLiuEaTKPp5j4YxGehGsqR7UsxkCVNwHswGJ6bWSdy/xEyh4x4H3Mwl89LglUZUOWO4M2EnND+EQgGCrE=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "UNIVERSAL CHANNEL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNZbdel0ry8JMuV1GTa2VJvH6DIACcsuidycYS67eRX/7u5ojtNxBgPLuwCnYmyLIEcr12mfImlA95VmlUcNm4n56Mq1qLK81hzyimGYzZi94C7gpwp+naxUXGLybCxRXIs=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXgKvaHUQBmtb/yBYicTLLiZX/EM/CRQ409lrCK2kHh5BUw0Tc0omgeV60PtxR8R4X2SNety9iwsEYa9LoqB41LtHRLKr8adrdUve7jRur+cw=",
-        "icono": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TCM",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNZp7/h3Ut/lttUQDJ3oUQ0b7l0LcpR9zUqjPMe8tkKB6CFYGmpTos02CCtlS9ZxZjTEywFl8WpoOdX+UPD2548V",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXvAwGeuUY4WxbWo0GCH9N7BXYqn74Hq/1QestsBaS2zAZW0nKIDNP/oNwxsVV5vyh2XuSqROGtzbjEK918qQzPt9Zw2xs7oB3qmjZZ6E1ivk=",
-        "icono": "https://i.ibb.co/Z6qftsS/TCM-Latam-logo-svg.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "STUDIO UNIVERSAL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNZgUsPTPOm/9b8ATXxsbLCsyLmSQ5QHPvSYKOZ7uTl0DeUABu+153GDCIP7pAXd9yEq27VqzSI175/kSXJUx+hf/nv5XNbU50p9wxGpl+KTlLZT7xXKicWL9nJI9YLpan0=",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXIh/iKlhM6w8HxbOV1UXzPJgupzlqWM68v56aycaTEPg25lOLbSAqXLyYKoKtFDEg0y1OE1ARgUX4OAftXPuNoI88jKhKEGRQWMWYyKz28Ek=",
-        "icono": "https://i.ibb.co/s9JprFc/unnamed-7.jpg",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CINECANAL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+0YVUg9xfYpVzIE2WwpJM8HfLbqUnZqlwt+wQAllKSHguZwNLSN+MCajjdn/ltoQSpTRDcO/078zVUKrXUWc0vAbt7BoOflL/XSYThLBiyFAQ==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXDugyO0YzLkvSPjh/7VvQMbWQNcThkayEdZ5sIhbUkPw715JTFMjJiIEtme4Y0mgaZ23wOKgypVhV0jnVX3H8c9DeaDSI+XAg2ppKgAXpl3U=",
-        "icono": "https://i.ibb.co/cvghCHq/cinecanal.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TNT HD",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1gMIZc8O1dqWCukQrKyOg+av0uAuIBVILH7MMrw36v4tPyGEYH1wx+UMOePM2ki+yIjOXxWmU1hqCuMkUVdyPcSmQXRGgWH7Oqvz/D/0w0IQ==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXG5VD8uKih9rABSNEBuXHOmk0uMD43zcdXUcFh/OCQ63eZylQe6/cbkquG9mBiuWnavzSPBKW8Eb75cvSG4oniGO0pS0lQJaLDAmhupmgkk0=",
-        "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TNT SERIES",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1xV0FK6NrfpUMCtp/Yzg0fpjaYuXDxx+eiOBKFgqJozVWsvM1RDh31ZJHukV9Av6KdbETRhkrSv1nqaP903bxw+GNwY236KpkuVaXkQoaYLw==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXktvq6WgQffD+5ZAvMft3qJQAOA8rHyjzjHHjhTDOUvMph0CZav+rT2PmZrNaGlz5X+r6pqOeCi4j6Tao7plLiHX7IRGIqSnVpovdjhjseIE=",
-        "icono": "https://i.ibb.co/pJGxSPx/unnamed.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "TNT NOVELAS",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbZjqYOG97ByVV5//wCTyo+7l0LcpR9zUqjPMe8tkKB6CFYGmpTos02CCtlS9ZxZjRR0sd+g6ukY931cx7c9tuy",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXK+7nWMIg1DDqzeLLkZXvKhe9FlEMm6vNMa2pn7CU7VKllIS9Wpp5I715HWWCjvCtavzSPBKW8Eb75cvSG4oniGO0pS0lQJaLDAmhupmgkk0=",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "CINEMAX",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNaI9MmJR2daK27jOwrPbzsxa8Bb4Mcs2YtVo0/3GMc8uV0aVYOfoUnUUjHiqlo014S/SRCWRTzaV/tdkF25InUs",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXK+7nWMIg1DDqzeLLkZXvKhe9FlEMm6vNMa2pn7CU7VKllIS9Wpp5I715HWWCjvCtavzSPBKW8Eb75cvSG4oniGO0pS0lQJaLDAmhupmgkk0=",
-        "icono": "https://i.ibb.co/MZYTrkg/descarga-9.png"
-      },
-      {
-        "name": "TBS",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbZjqYOG97ByVV5//wCTyo+7l0LcpR9zUqjPMe8tkKB6CFYGmpTos02CCtlS9ZxZjRR0sd+g6ukY931cx7c9tuy",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXR9DDs0kl1EvksBcrP6ZkbCO/+OkWIxTu3TpHrw6jL1Qazw8nJw+6nOONxGDNgov63uRxya/MNgX/+c8O4A/whkmDE0r9/DxkEM3ZYYIy1Ok=",
-        "icono": "https://i.ibb.co/dmgX2Ww/Cinemax-LA.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "name": "FX HD",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTSLrs2XIxbJLauFKauSqY7AEaoYdjo2+T0qaYHiKUR2Z01RJS+Fu91+QIUeM+4BOg==",
-        "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX4QgT3FtUVDb3JfzNRhYKd5MYgscbKR9K0aGFV+rMQsGmJ5Y5iMyeuMmAGQDbs8oES5hihlM5oV9fqtwQG5SHoA6Sf3Si+QbH/5+4SR8/4ss=",
-        "icono": "https://i.ibb.co/5LvDcdV/587595.png",
-        "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-        }
-      },
-      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/45/CH_LOGO/800/542/0/0/98227784074535.png",
         "name": "SPACE HD",
         "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1t6Jg/DALEGqUdxYtHiQ3MmjkARMWqDOxV6PDhkh9t9yxxVsWJj247n6kWLA5hvpE=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXQZLeppdIsYnOtKTJtdHivAZ8Fa3caS6TfjkfCEgkcTr0S9mWuP1rh/d4H2ksw4JRTm7oW0N4+asghV36V1XP1W54cSEhALQL9YJrW7TVRkc=",
-        "icono": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX1RUVR050STz8JOMcZXuhH/8wkXVVOUooWkcKqseZw81De9Aer3IH7LNHkvH6HzO/zyqVVhlltVYnCpG8gNxOYYPDQpOQD/EtR3lRgisYchU=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "STAR CHANNEL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1nBvmKcQPJ8+AtKPOEaFXBwmjpNchoJLWb2J8au3+RLixxVsWJj247n6kWLA5hvpE=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/41/CH_LOGO/800/542/0/0/9929073907327.png",
+        "name": "UNIVERSAL TV HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNZbdel0ry8JMuV1GTa2VJvHG6iQH5QkiRHEJ2PXvCiQQE8/0MVWzBj3/Ebi5c8gO/a3TONvAl0Y8lg8CTfwW4lgAnh4htz1kfz3bhMtKVNHAw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXB9b5MV6AmobFhj0efA7vY2y2ofAC/iQ72QH2lNWrt/HscjabX1uddcSfhQrNPHHGV6HARDsK0P+I/xM3A84OvUveiYq2VflPjlGF4p/C9XM=",
-        "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX7bwXVNrGHcCOoQEqEEEjmSp+82baJ5yhn3AomEe3qUzBvDwlsAEonQtRew/YZDRJjByogpJA9VgK2ws00tilUH6fzPnkoCJo/mqzQxMbc3M=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "AXN",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DDN2kjDnMqMNWPIWhCQQPBu6G+OIhcccAccVCjERHXzkixxVsWJj247n6kWLA5hvpE=",
+        "icono": "https://image.roku.com/developer_channels/prod/5f77f28b2d72c8a25c836cee44011ffd5dd6e950b160752de1755003860b1a1a.png",
+        "name": "WOW TV HD",
+        "url": "PUQMMEwnRgREWiWV2Ed98UDHfBf25jrCUr404olhldf9JIg1+GYImseVVwflApT5M213Z68v9NhEJG3ezgpBk33sU5omI/qhKCItG1t4XmU="
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/800/542/0/0/15119500074230.png",
+        "name": "TNT HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1fM1tmMnOAsuAxWftfrW0UDEuoiG4lg4Mko3R5HEg9mCEZ2nTqRu20uZ5uJAfBblk=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXZu7ILdn46+GWSaKpbTL2cYeVEFFETHq56pB++vY8/3hfDR/4U38zUuxJj3abnLBbyxqYShwlqaiVaw86lv+YUOiRWB/D15xdBMT2g2NEACI=",
-        "icono": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXtP0sw7Po28dhEheFF/dOh7mxRXCLgRKUkw4UUViB/Btx9BjZhNaqXEk6LoJaQ4zzHl3R071Dm9ktO2U7du1xSO2c8v8FDp+gxOdEM/JS8DM=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "A&E",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/117/CH_LOGO/800/542/0/0/68097404073421.png",
+        "name": "TNT SERIES HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+2v73f9nrWEdCBBVmGyyNqukNnOgjUq3i+oIP8XTxnySnufHiF/Z+VFsJHZOx4MZNg=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXJDm29PPvHneMhMy1dz5o93xCxxvqTTn440/07aM97W8O7hChaU2L1HFNxhfbVYUm5yQWi7t9+hi1OIW50rIig/SrkRu/nQhzIYyV2Ab6H+Q=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/52/CH_LOGO/800/542/0/0/95118087071584.png",
+        "name": "A&E HD",
         "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DBxeBWriCXwE3xsN66yRHs1kZy7KWEx0e9r8WKFvDFSFQJ4eIbc9ZH8924TLSlTRwM=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXPIoDbZ0B0XADG2kaKzopwOKrBg0k33QWCHhEJ2ZNmc7uRGQI20/NFPc6rqLyqHlOPcT/P7cNtZ32p9CBDgLIHu+AmR2cA4rjro96/L3l4+Q=",
-        "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX2azy4iIEYUmlFlkEW0hcS8wEMAQjGr6ULzlFXix0jQpN2ZrAfr+d4T6zL42Oe93EhW2sZol396tbSjUU9tS/RBqvi0p+keXp9DQLqml7z20=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "TBS",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNYPDbGH3oTmbXRLfrSt4bo+7bkAY+EY8tO6ATEbv7Wo2A==",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/55/CH_LOGO/800/542/0/0/77211152071862.png",
+        "name": "AXN HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DDN2kjDnMqMNWPIWhCQQPBu6G+OIhcccAccVCjERHXzkixxVsWJj247n6kWLA5hvpE=",
         "type": "CLEARKEY",
-        "drm_license_uri": "t7h5Mb1W64RfJgx46R09trMw6mzpNYGyxTMkf6cbc0JUSFi/3BHZrVcW8r9HQtx2I7/46RYjFO7dOkevDqMvVJxz1fw5UM4Vk1f8zN4sv7MWbZ/Lgnxxg5oPCFY0dNTEVVgUrMulaIomtzQt7gGJerZT7xXKicWL9nJI9YLpan0=",
-        "icono": "https://i.ibb.co/dKMvJGY/tbs-tv1490.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXqddur9b/hmq5+q4G3m+FEu/4UMdVgBmHNAIY2I5xS6HeRo1UVnrcqV5mVlZO/sNu/BySvRj5qfaNbRomhkCc8hEjWG3X/AKjckCmZ8jDujU=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "AMC",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png",
+        "name": "AMC HD",
         "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1on07At6xBHNZfLtwIjcROB3kSydJI7x9tlT0P92MrEg==",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXi9OrkCov2GhekQfKGyVAuTx/o4rCAmA7I7sL2TWy9QY0Q3BanlANRlEJLLW0+/pejy8qOsdE+EeQZQAaIg0cDTQQ6oDD9t+U7NFd0nJTgCM=",
-        "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX73K7/EAQNGl2fK1ysxk2nDc/QZpjF5KbmziMyCuwULys6gqu+VGGuHyMwCSwyFOGGSOq9RQpfE8HYlycY6AnuHe+HV9tmN37OcJmSoXHkfo=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "A3SERIES",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DA+0KzJtbc3dsQ4YayL/8X+h73WQmkNBUHaSiQwtlqxmb6VuR2JvZ3lXn1j8t0Q+iw=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/800/542/0/0/29332619071250.png",
+        "name": "AMC SERIES HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNYScLFP7SfTLW4rFJQpvPJTtqpO20qMU0yQOxHN9T0lPl47eSlXNzbhnoxfisDDjZ0=",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXi9OrkCov2GhekQfKGyVAuTx/o4rCAmA7I7sL2TWy9QY0Q3BanlANRlEJLLW0+/pejy8qOsdE+EeQZQAaIg0cDTQQ6oDD9t+U7NFd0nJTgCM=",
-        "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXW5VRqcOixrg+sJ1UmtVHzDiG748h3L2E0vcESckCJCe1z/ZNOAnwaQ35TVkwuaJ3iRawX+6bBWwpEIk3VJiMkPkTWU+ymmvfUTG7GKp9KtA=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "COMEDY CENTRAL",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DC/+gyYwqIEpuzZtnV4Djy/CN6Kbyu2B0WzKiC3bWERahuJSodapLtZgqCLuT+vZr4scVbFiY9uO5+pFiwOYb6R",
+        "name": "DHE HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DCd2N0tzTATgnWs3uzWMjwNKRJlBEZr5BkAEdeWmFZ1Bw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXi9OrkCov2GhekQfKGyVAuTx/o4rCAmA7I7sL2TWy9QY0Q3BanlANRlEJLLW0+/pejy8qOsdE+EeQZQAaIg0cDTQQ6oDD9t+U7NFd0nJTgCM=",
-        "icono": "https://i.ibb.co/G7RkmGT/ar-comedy-central-m.png",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXJmB+vvY9Q21PNUfOeapXsBRgXat+n27a+jC+oPKY8drrYYJ9jHSvpRA/w1C+qRZEvyZcNcPkowDZqQQo7NnTY8q99eqaUqNWausYTYEUfH8=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/63/CH_LOGO/800/542/0/0/76775190072352.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "PARAMOUNT",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DBEaECH38RMwY5GYx71af/o4AXZIGdcA+6JnU8OuJyjPbGFl3bHhN1oJi6XC2pADRA=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/285/CH_LOGO/800/542/0/0/1820288007328.png",
+        "name": "TCM HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbbFDiqn/n1mQbtA2lydGmL5F2ETkvFndYd8z/BjpEq3g==",
         "type": "CLEARKEY",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXi9OrkCov2GhekQfKGyVAuTx/o4rCAmA7I7sL2TWy9QY0Q3BanlANRlEJLLW0+/pejy8qOsdE+EeQZQAaIg0cDTQQ6oDD9t+U7NFd0nJTgCM=",
-        "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXvAwGeuUY4WxbWo0GCH9N7BXYqn74Hq/1QestsBaS2zAZW0nKIDNP/oNwxsVV5vyh2XuSqROGtzbjEK918qQzPt9Zw2xs7oB3qmjZZ6E1ivk=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "A3CINE",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DA6Of5exou7SFRd4pgRw9QN9jSuRMPS6J0kpidPozfA33xvwBJkt9iBGZotI8T1gQg=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/113/CH_LOGO/800/542/0/0/86995730071579.png",
+        "name": "SONY CHANNEL HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DB5T4WAwfJFuu+8vrMS6Xl4dUh0O8XDm+MON9BvHvB4xWNtkGp6yyRbLKPSYMEyAn4=",
         "type": "CLEARKEY",
-        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2lJlzyZU1tYEtOzPHBw34M7TeTWphp2PahvPodt2p6FvAY09aAj+6PbGXuTDe+ZtvKT8PxfHR/JRkislh9NNpXo3LzLgqPVGqOdcVKr2jY2MJBgQ0gynob5Kgi2YIipaOrZT7xXKicWL9nJI9YLpan0=",
-        "icono": "https://i.ibb.co/RgWH92w/720x540-1.jpg",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXQ+YP1JidqfKE9V/fKlHcK4HsiGzwibCMwV7WYqNcRbwtsipTD9+3DuPl0xznrMHCNKUNgyueIWnyBP2a1TUgHQ7G1gn2/81tL/eelgVDMhM=",
         "headers": {
-          "Referer": "https://portal.app.flow.com.ar/",
-          "Origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "Sony Movies",
+        "icono": "https://i.ibb.co/HFpZ6CC/sony-movies.png",
+        "name": "SONY MOVIES HD",
         "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DAOTNMcVoQPbE6SKWuYmJZXyn49fVwjl73/+L8bW5ZxisFNbBEqQCw3PZdxxEqyr3k=",
         "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXZXlVXfinF3QMMdIamYgWA58qlNlwJi4ncvenJcf1L+xTcZkvhu0YWh+vuaMcJ4FW0gXBBhA9Nt26wignDj1N0Iiv1+Kr1xRwOcJruARewVo=",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXayHiBxaK9G6G6FbYqhsp5UuNVDw76cU95NMAJpYyXTqtJ1HBOboyHLsABFqqv+S0DDpZ1jjKb7msrMY6QMQxNWhmhR1W9Zsxhsuy3K33J3M=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "Europa Europa",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png",
+        "name": "SONY CINE HD",
+        "url": "PS9S64LhbNd80SBpE72vaq3ov07HIh4SubnJ3e+hEAT330PVpi/H4hnXxu/X3S+iFxjo2y7OQi3bhn+fdo4m5HuzgMLLcEj94loTbtuXXjm2U+8VyonFi/ZySPWC6Wp9"
+      },
+      {
+        "icono": "https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/linear-sony-canal-comedias-16x9_1_0.jpg",
+        "name": "SONY COMEDIAS HD",
+        "url": "UFNwxJdREBdRyjaqolwWFcet3rkZbhUy9hqGpNcSFVgo0h8+6wprE/oElhjrVVvdFJ08AKn+MaW0dT9u7ARsoBdFirVU3veIAXcBZL+KRPcbvdJioFWw/MOxcZ90AqLAHeIQJ2EPX1UQX9a2AMLnrw=="
+      },
+      {
+        "icono": "https://magosdeldeporte.com/wp-content/uploads/2023/03/sony-competencias-logo.png",
+        "name": "SONY COMPETENCIAS HD",
+        "url": "4qM+S9ITf2JjAVDTY3hIv8Gpb4G8D1k4OKZTuhDTiVtbbKXzksFyGFV/lDIbBk3jVsjL58A0Ox5qtPexgOZWnw=="
+      },
+      {
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQukeWgMGsea-FNVRM3d6tIfaVlvxsrP2aBcOJpt_zLaQ&s",
+        "name": "SONY SHARK TANK HD",
+        "url": "6nkrYvCmYrT0AQt6A+OfprTH8pEbvpN2b/8wojPemJKkr6c13iJOSDaQLF+UbLvPGAt9iViKmy7jSC7GDaRVCQ=="
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/42/CH_LOGO/800/542/0/0/6901418607879.png",
+        "name": "STAR CHANNEL HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+1nBvmKcQPJ8+AtKPOEaFXBwmjpNchoJLWb2J8au3+RLixxVsWJj247n6kWLA5hvpE=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX4ZD3jRqcQ10K2ID5PQdAmLkzDHqXGfaue2PMiLzo4z4lNabNH4y/GvrQb+ZK9VhGmvqPjGss5MikkVLSeQGSfj+QiwrFCMlgVABPUKyhFu0=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/800/542/0/0/35224800072040.png",
+        "name": "FX HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dfdQmuJ9817szU5pxqhEq+3afng5Fx9fz5bQh6AxcFuxnIjaP94Vp2/gFfKgZGNjmwJ4eIbc9ZH8924TLSlTRwM=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX4QgT3FtUVDb3JfzNRhYKd5MYgscbKR9K0aGFV+rMQsGmJ5Y5iMyeuMmAGQDbs8oES5hihlM5oV9fqtwQG5SHoA6Sf3Si+QbH/5+4SR8/4ss=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/800/542/0/0/14633187073787.png",
+        "name": "WARNER HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DAmjB1ujO9xDOM1V/tvsIwJGriEtwvM6aIsU9/xK/oN3+zu5o0euqMoOvFnTuvnAc8=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX47h0U1AkWI6cTFnR4J4KUriVRbIqba8uUyNfofLx7z+JSZmwJuCmO8gF7FwWO5zPQGjL+ce5A2o6Pe1YT8f+SDT7G3KeVMgLr6J/44XnG8k=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/800/542/0/0/87610940072910.png",
+        "name": "PARAMOUNT HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dbnBXJGbtEYd23Ncg0LN5DBEaECH38RMwY5GYx71af/o4AXZIGdcA+6JnU8OuJyjPbGFl3bHhN1oJi6XC2pADRA=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHX47h0U1AkWI6cTFnR4J4KUriVRbIqba8uUyNfofLx7z+JSZmwJuCmO8gF7FwWO5zPQGjL+ce5A2o6Pe1YT8f+SDT7G3KeVMgLr6J/44XnG8k=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/800/542/0/0/223329100777.png",
+        "name": "STUDIO UNIVERSAL HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNZgUsPTPOm/9b8ATXxsbLCsliM6RcXb6zOu3oKXKCV3r6xGInN35sCcpAOJuLQrTC1ipGOPp9m6+Vrjw9EnOCnW",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXIh/iKlhM6w8HxbOV1UXzPJgupzlqWM68v56aycaTEPg25lOLbSAqXLyYKoKtFDEg0y1OE1ARgUX4OAftXPuNoI88jKhKEGRQWMWYyKz28Ek=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/264/CH_LOGO/800/542/0/0/8622092407184.png",
+        "name": "EUROPA EUROPA HD",
         "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbR5C69+7ueJGtb/F7BTy0KCN6Kbyu2B0WzKiC3bWERagnani141dgGRLOaHE9l1jwscVbFiY9uO5+pFiwOYb6R",
         "type": "CLEARKEY",
-        "icono": "https://static.flow.com.ar/images/689/CH_LOGO/350/500/0/0/25635809073478.png",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXtCTFIl6LUZvuc/oXJ/DKMA/FZ2iHZuMRLss4tCnvOKT3ysyJlTC6N7FI7PvbIEZl3Je6nW7Pn1+zcoOoSwvQg2i/nYc9Ke48dlk0pBPh/Ts=",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXM61QhJQ2YZApvUfcldXCtrMrz9MLVJzkkorTkTPPH38WKNakYaZo8LIkUF4hx4GY6hjP6mAvU6oIC8TE2yiVwG0IJUDjaDC7Z4UhgG+hvgk=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
       },
       {
-        "name": "Film & Arts",
-        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbF8g6sYdpnGeBmVTvQShB6XE0VXG3hE+4C6W/0cN5UpkRcf5OacG8MMuCixJgtk4k=",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYCVy5irujMobfhXWPBiYEa642ov57zWyjDdBxLEnGvgMtxmhCcyWLkEI9HVwFlQ0KBM&usqp=CAU",
+        "name": "CINE LATINO HD",
+        "url": "7goD0HK4HClvVo3+NzmANTPLSeuZzfcIIVSTbjHwDcw5orA1CMAqTUwtuQMfYrAESqly0J9omlZ9p/CKz5fS2w=="
+      },
+      {
+        "icono": "https://i.ibb.co/VMNzGzB/CINE-AR.jpg",
+        "name": "CINE ARGENTINO HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dWJb3+wYo7w9XHqouN0OTNbVCdX1nfU1UvnVd8rEPa/LGKlRlANkQSf+fwIcacPMWBPSwWDul+o1SoZVe4I+IWA=",
         "type": "CLEARKEY",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNpsN8dJRYxGb4dteRgkAZGuO44a17xarDhyQgc98qJbl7jmqpBuir1sWSpAjjTeVAzcg&usqp=CAU",
-        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXTcPOGg6oQwJPP3YrdTE9Od6rXCWeV/FJXcEpt/SkyyILuq8cRHHPoujo5D7IU3nzIXjeZ7Cjf7XqQHvDHd5nN6Ee+On6kgrtTgqjlyk3HuQ=",
+        "drm_license_uri": "tLLG6q1mA4mW4H/+4ahY2pcrkv7reODi4OENoZmzk8H/kBcpDSXpOm1SS8h38sp+6hrscIE7qCLoFZbY3h42XRLseASp3KSNAJxSyQU7C7K1KE0KVs6q06xZ/+2swcwdWEzpTBlvIStbtoCFgoCFmcdEcJuT+cNntih1fOBSVUw=",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "x-flow-origin": "https://portal.app.flow.com.ar",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
         }
+      },
+      {
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/862/CH_LOGO/800/542/0/0/33860159072069.png",
+        "name": "COMEDY CENTRAL HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTdvp46Wa8sgz0XLns40t6xr9KTLiNtGEPsoMuLE+9YLbR7pfMLctzntBrmMvITLgWAFY3/QlFgf9MS6DtNzdGIFt1j2A7gqpy0vg+5AAseI",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXyKs+XSTv6LyiPeoy/1DYDjdbC950JiRHQQk5VY56f00EJWq6p0qMLdpHHqZeTdAhpEsPya/Pa/jZglg/iQ1RmlNRmdnNf/tsbq9e8jb8Px8=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://i.ibb.co/gRkVsjf/A3CINE.jpg",
+        "name": "A3 CINE HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTdvp46Wa8sgz0XLns40t6x60sN2CJB4O4+NZMYm2Ymmh73WQmkNBUHaSiQwtlqxmUrDVblmdLwgAAFnI1+akpM=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXARnZ+dhWhTnSTfjH5Wll6AhI7KgAlfk/Qa4juDNy08QQfxIrznqMJzV4rHH0SKP+t4VF658iTBEcKgW1Yre4zDVA2fbs/3qx/Ve9ybs8ll0=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://www.personal.com.py/img/hogar/tv/canales/atresseries.png",
+        "name": "A3 SERIES HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTdvp46Wa8sgz0XLns40t6xnRhuVmgWwmNz16+f83kXTyn49fVwjl73/+L8bW5ZxisYpi5cnLLeUjCJZ6TohuYk=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXIzg2pkxtz1tqZXrvYbCk+g9unatxfrZ5uF0eeZ1f3qXA+7V4OGAxnmZBjnRtl41exFWaH9GaNQHLh+/UZQQseLmpqBkocuYJ65okYrUovUw=",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "name": "USA NETWORK LATAM",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTdvp46Wa8sgz0XLns40t6xRwjbv9QImWllcAWaeylBhCN6Kbyu2B0WzKiC3bWERariFaHkv8mI63zAatQEagmMCeHiG3PWR/PduEy0pU0cD",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXrQNFk+UIknvwNhGPK+mhBbh9ED3H8fYXSztp3yiyvCk/ZiSmmwDFjV9rw6kB44QwG5n/eDKCotQ6QwMyFYIGGECEoV2eCytp32Jg1B653Pk=",
+        "icono": "https://i.ibb.co/fN4bsYz/usa-network.png",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "name": "GOLDEN HD",
+        "url": "WJV8bqurAK7+F3RgM8Jvgho2hM1EFaoj3l+woCWJ4XDby2jdBnhi5bv2Ar/dv3XzcQOLOsWVf8TjvYbohvFwMkt2ZoKUG5BA2V1U3PIkNkYsptyjYW/0Jf2xmigJfWrQeo1/+I4SdmoL0EHrnOdp4Llt+BdYvMCuGfWu2FOW6diPBSUuGzMH9UH1vlKK3/Y74iLEpYcn5ZWioSX2vXyE9a1MhI3U0QkKyck+PXnyfoO6pZgH//vvEGkK0XQwtO3dvWFoz0WKZQ/IJAepduorvPRe/HBSYoRvbM34YLtoFpMTCIZzz1M/INv6IfCWqvJ9L2jDd3zfrOqjUNn4YgTrE3YxTc4qSAcrNEEuCiN64EPJVWO5PsQdTNTOXf7eBbdOH1QqoyJ/z+RdM47j0tt1fug5Tm0eQOlR07uQ+vogznksmisr0MNmldRBO/gc6Qnz2Tyd1ET8Im6iSx9/s1S17cJ3NRJq8F9JPIUernPejthUiXoPufCmF6VU1HzqPArSxOPAHUxKWE7szlLkXf7OMqaPfGuzsZkiyT4Sr3/ZPfZpcg0FNzTXA+xvKsyHN7itsJcOAcCEHKsB/W2IU4zfkHPSVFbpEtmwmRnl6N0s1I/X5126vGEYFkwh11wcIJA/bmds+wMBSYkfK9vTjiC/taW7i+tsXgCDuKRKcK8Rc5ttvgA8KAe4RNpIT/UjG+ttZgyhaPW2DZhG1Y8bc1utaklDBH78H24xPKhHxlSnJpPR5iGkowMrNfyOx4VS46q68aqjqMRheVmevI2encmDaOoJlXT4Had3HlxBd23q3Tk7UH/6IrCOtd3RztkSmxxbv3n5YCOLYn8UcgoKpYsFqpQ3oFKGb5umH2OfuGQYAhKv0U31+OfwCYY5ZsIsKuhTKEVHCn5AN+Qf6YqtG413dTdvp46Wa8sgz0XLns40t6ynIa0VS4yNyszB6xAnTLA7nrUGwRffWVlGcWTTchJG8DHg9Q381Qe6vNodZGNCdqs=",
+        "type": "CLEARKEY",
+        "drm_license_uri": "Cr+9pvmWvCMo1XRsHXiVwejLb7dKNL/uZWt9WtX/uHuavh/52YVObIaY1E9lgmHXsU0AHi2fJwPmG4iGNMvLq12s5/GHZ1l0yEpCrpQRU57LBJWGv3Q9rd0Cjstf5IjsBYEIALRe3yPRs4V+ucxEy8PcFQYQv7eVDh9rt4uq64o=",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/800/542/0/0/7149423107401.png",
+        "headers": {
+          "Origin": "https://www.tigosports.com.py",
+          "Referer": "https://www.tigosports.com.py/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36"
+        }
+      },
+      {
+        "icono": "https://yt3.googleusercontent.com/0YUldLprp4qWbt0Uk2S_2kTBxkDPNSb_Ht0H025shPjXJ3tGUrHd0Jj3c9Czc5YYzJICQ2JC7oI=s900-c-k-c0x00ffffff-no-rj",
+        "name": "MUNDO SERIES HD",
+        "url": "P4iofs4/LLm0fAh6inyoZ6LqCrcU07TF7WbkB9tXDxBmAyT1QLL0as2/evSsPlyHZ1nuWaDrGczZRhZV9CYT5Q=="
+      },
+      {
+        "icono": "https://images.fubo.tv/station_logos/Cine-y-Series_c.png",
+        "name": "CYS HD",
+        "url": "EyPWMYNVLmGBbsUr6LQ4Jwg75EVpXu0unecEtAygAoQK15o40WJ8twEjTYfeE0TtRrpMjtRJwyPRStnCIildyw=="
+      },
+      {
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png/revision/latest?cb=20171106201618",
+        "name": "AZ CINEMA HD",
+        "url": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTCyffhcO19yd7aJRfpCE7kw=="
+      },
+      {
+        "name": "GRJNGO ",
+        "url": "x41g6vjmv1n37HxIqL3RN3gT5BFrXZmJZUYDd+G7JqnV8XjO5duePwtY5X6NXt9BGAt9iViKmy7jSC7GDaRVCQ==",
+        "icono": "https://i.ibb.co/t2w7vtK/grjngo.png"
+      },
+      {
+        "name": "CINEMA+",
+        "url": "JCTJSlOyn9UW+oSV5XcuxcAClQw/BO820UGXAFkLm/ZOp7noqNZNivNLWXc4ShEsM9aUTpwVNaqiw/74Ix/BIw==",
+        "icono": "https://i.ibb.co/BzKsrjT/cinema.png"
+      },
+      {
+        "name": "ROMANCE CHANNEL ",
+        "url": "E2lb/BvLz0sPtY4pp8vsRmsjzJjkFVKgHY6N+4OKTt5zo2U6LMkvbnouiQQdejzK2CN5D1B4OHQzlYmTJLXITRf22/8pDOMXjwmiDZx5acBB105BjSu5DO/CGx0hwGkBueH3Rw11l4iaDhEsiPn1kO0PgBXWqOo3Z0WA6CtovIc=",
+        "icono": "https://i.ibb.co/r2QS9D3/romance-channel-latam.png"
+      },
+      {
+        "name": "FLOU CHANNEL ",
+        "url": "bXK1jWWJLB97LPaxOPKfqc1uc7zLU6nPYLqeMIZmHoJKw3Kbkec3AQl35E++dP938UtH6aFdLAZOt1wP6kddPhz6jHjqfECZWBpun7sU9XFqFNhN4+bEfS4tClZiZq2LXyqUVSivs98gIdMx4JGHcQ==",
+        "icono": "https://i.ibb.co/RBs5CHg/flou-channel.png"
+      },
+      {
+        "name": "FLOU CARIBE ",
+        "url": "bXK1jWWJLB97LPaxOPKfqc1uc7zLU6nPYLqeMIZmHoK5j6dCcvQtFXXH97qmcqZrGnxBWgYWSWjknMC2RGOZfvIUW+3JELM7r1K7j1kWtV9GukyO1EnDI9FK2cIiKV3L",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRCiHi4up-sX1P6NrKvl0AuZh4I69RiHN4w&s"
+      },
+      {
+        "name": "BIGTIME PELICULAS ",
+        "url": "x41g6vjmv1n37HxIqL3RN/6G5yagLQTbd/OzhNe+bJGBoYNoh4bdGbC/RyTsfB4yFwOPqj2j+bKRTaLxR3TivA==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHhAD7XMeQF5u5_71L36Jn1P9ys0KULWjUw&s"
+      },
+      {
+        "name": "ARTFLIX PELICULAS ",
+        "url": "x41g6vjmv1n37HxIqL3RN21Gm4xKdxnPHolib8pOAfiBoYNoh4bdGbC/RyTsfB4yFwOPqj2j+bKRTaLxR3TivA==",
+        "icono": "https://yt3.googleusercontent.com/3nihQR5c2F_Skk5bOj8ciGPFccBPMnc-sO4bmeFR7IIgfIhGIQZaVgHInBv1Bm33NVfj-vHQZdw=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "name": "Canela Horror",
+        "url": "JdbJScQd4bCrA5UQ2bJagAe6BWxSrCKq9pqqJS/ZD63+pm8CnFrsBm2ihhThUMNTojL/vZttpvEXjTq92+hQDQ==",
+        "icono": "https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/square/366x206/bba9b402-channel-canela_horror-7x10.jpg"
+      },
+      {
+        "name": "HORRORFY ",
+        "url": "6kio23oZsJJEcnG6L/KRU81uc7zLU6nPYLqeMIZmHoKkk3KdRYr3JQQFAzejU606OC8Qbh/XPwlsKY2hkYIvawEOOOHIVr5fSTRoCmj75JB97FOaJiP6oSgiLRtbeF5l",
+        "icono": "https://i.ibb.co/YRw9FtR/freetv-horror-1080x1080-02092024.jpg"
+      },
+      {
+        "name": "Terror TV ",
+        "url": "qTywpyNUyh8MMJG26AtINL8vRmgLHhwFaQc7jTSMlIoY9A9srxeuALCykmlGvTmRGAt9iViKmy7jSC7GDaRVCQ==",
+        "icono": "https://cdn.m3u.cl/logo/1420_Terror_TV.png"
+      },
+      {
+        "name": "RETRO CINEMA",
+        "url": "ULl7fKZI3lxNsyv1gtPEURCzr6Dlh9LT9E9io3YRbPk7s7L3YhI2gSubR460dfo9zNUE+ceCwOZqsikYcxjLhQ==",
+        "icono": "https://i.ibb.co/Qfcz0zX/cine-retro-genial.png"
       }
     ]
   },
